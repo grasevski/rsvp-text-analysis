@@ -124,5 +124,5 @@ The following sources may be useful when creating keyword association files:
 
 * [The IMDB data set](http://www.imdb.com/interfaces)
 * [imdbpy](http://imdbpy.sourceforge.net/) - Python api for IMDB. This for example could be used in conjunction with the IMDB data set to populate a local SQLite database. This could then in turn be queried to return a list of (movie,genre) pairs for example.
-* [The freedb music cd data set](http://www.freedb.org/en/download__database.10.html) - This could be used to populate a (artist,genre) keyword association file.
+* [The freedb music cd data set](http://www.freedb.org/en/download__database.10.html) - This could be used to populate an (artist,genre) keyword association file.
 * [A list of sports, divided by category](http://en.wikipedia.org/wiki/List_of_sports)
