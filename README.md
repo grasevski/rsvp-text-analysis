@@ -8,6 +8,9 @@ Synopsis
 --------
 This repository consists of a main script extractMatches.sh, as well as some auxilliary files and helper perl scripts. The purpose of extractMatches.sh is to output a feature table given a list of user ids and corresponding free text fields (NB the user ids need not be unique).
 
+
+Description
+-----------
 This is the basic procedure followed by extractMatches.sh:
 
 1. Find all keywords in the free text and (in order) record the line number (=> userid) and keyword matched.
@@ -111,11 +114,13 @@ Creating a feature table:
 
     $ cd /path/to/rsvp-text-analysis
     $ mkdir myfeaturetype
-    $ cd myfeaturetype
+    $ cd myfeaturetype	# VERY IMPORTANT!!!
     $ cp /my/user/table/freetext/entries.csv user_myfeaturetype.csv
     $ cp /my/keyword/associations.txt myfeaturetype.txt
     $ ../extractText.sh myfeaturetype
     $ cp myfeaturetype_table.csv myfeaturetype_table_neg.csv /somewhere/else/
+
+Where "myfeaturetype" is your feature type, eg music, movie, sport etc. NB The script MUST be run from the myfeaturetype subdirectory! Otherwise the references to the helper perl scripts and various auxilliary files will be wrong!
 
 
 Resources

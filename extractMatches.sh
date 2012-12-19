@@ -23,7 +23,7 @@ if [ $# -ne 1 ]; then echo "Usage: $0 TYPE" && exit 0; fi
 echo "Sanitizing user_$1.csv..."
 tail -n+2 user_$1.csv|tr -d '\r'|tr '[:upper:]' '[:lower:]'|../cleanupFreeText.pl|sed 's/^\s\+\|\s\+$//g'|sed 's/\s\+/ /g'|tee user_$1.txt|cut -f1 -d','>user_$1_id.txt
 echo "Sanitizing $1.txt..."
-tr -d '\r'<$1.txt|tr '[:upper:]' '[:lower:]'|tee $1.csv|cut -f1 -d','>$1_names.txt
+echo "$1,$1"|cat - $1.txt|tr -d '\r'|tr '[:upper:]' '[:lower:]'|tee $1.csv|cut -f1 -d','>$1_names.txt
 echo "Processing genres..."
 cut -f2 -d',' $1.csv|tee -a $1_names.txt|sort|uniq|tee $1_genres.csv|sed 's/$/,/'|xargs echo id,|sed 's/,$//'|tee $1_table.csv>$1_table_neg.csv
 echo "Sorting and removing duplicates from keywords file..."
