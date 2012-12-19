@@ -110,17 +110,36 @@ myfeaturetype_table_neg.csv is an outputted feature table, with '2' representing
 
 Usage
 -----
-Creating a feature table:
+Once you have downloaded and extracted the repo, cd to it:
 
-    $ cd /path/to/rsvp-text-analysis
-    $ mkdir myfeaturetype
-    $ cd myfeaturetype	# VERY IMPORTANT!!!
-    $ cp /my/user/table/freetext/entries.csv user_myfeaturetype.csv
-    $ cp /my/keyword/associations.txt myfeaturetype.txt
-    $ ../extractText.sh myfeaturetype
-    $ cp myfeaturetype_table.csv myfeaturetype_table_neg.csv /somewhere/else/
+    cd /path/to/rsvp-text-analysis
 
-Where "myfeaturetype" is your feature type, eg music, movie, sport etc. NB The script MUST be run from the myfeaturetype subdirectory! Otherwise the references to the helper perl scripts and various auxilliary files will be wrong!
+Then make a new directory for your feature type (eg movie, music, sport etc):
+
+    mkdir myfeaturetype
+
+Then change to that directory:
+
+    cd myfeaturetype	# VERY IMPORTANT!!!
+
+NB The script MUST be run from the myfeaturetype subdirectory! Otherwise the references to the helper perl scripts and various auxilliary files will be wrong!
+
+Next, copy your 2-column (userid,freetext) CSV file which you have exported from Oracle:
+
+    cp /my/user/table/freetext/entries.csv user_myfeaturetype.csv
+
+Then copy your "keyword,genre" association list:
+
+    cp /my/keyword/associations.txt myfeaturetype.txt
+
+Then run extractText.sh, and wait for the output tables to be produced:
+
+    ../extractText.sh myfeaturetype
+
+Finally, copy your output tables to wherever and use them:
+
+    cp myfeaturetype_table.csv myfeaturetype_table_neg.csv /somewhere/else/
+
 
 
 Resources
