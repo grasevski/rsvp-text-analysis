@@ -29,7 +29,7 @@ cut -f2 -d',' $1.csv|tee -a $1_names.txt|sort|uniq|tee $1_genres.csv|sed 's/$/,/
 echo "Sorting and removing duplicates from keywords file..."
 sort $1_names.txt|uniq>$1_names.csv
 echo "Searching for keywords in free text..."
-cut -f2 -d',' user_$1.txt|tee user_$1_text.txt|grep --mmap -Fwonf $1_names.csv|tee $1_matches.txt|../getPossibleNegations.pl user_$1_text.txt|grep --mmap -Fwnf ../negative.txt|cut -f1 -d':'>$1_negations.txt
+cut -f2 -d',' user_$1.txt|tee user_$1_text.txt|grep -Fwonf $1_names.csv|tee $1_matches.txt|../getPossibleNegations.pl user_$1_text.txt|grep -Fwnf ../negative.txt|cut -f1 -d':'>$1_negations.txt
 echo "Creating keyword association database..."
 rm -f $1.db && sqlite3 $1.db<../schema.sql
 echo "Populating keyword association database..."

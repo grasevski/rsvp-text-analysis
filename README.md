@@ -25,10 +25,12 @@ These utilities were written under unix, and thus have the following dependencie
 
 1. unix shell (eg bash)
 2. text utilities - grep, sed, tr, tee, cut, sort, uniq, tail
-3. perl
+3. perl, including the following CPAN modules:
+  a) Text::CSV
+  b) DBI (plus sqlite3 driver)
 4. sqlite3
 
-Recommended windows dependency installation (not tested):
+Recommended windows dependency installation:
 
 1. install cygwin
 2. install aforementioned dependencies in cygwin
