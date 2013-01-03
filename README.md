@@ -32,8 +32,8 @@ These utilities were written under unix, and thus have the following dependencie
 
 Recommended windows dependency installation:
 
-1. install cygwin
-2. install aforementioned dependencies in cygwin
+1. install MinGW/cygwin
+2. install aforementioned dependencies in MinGW/cygwin
 
 Most unix distributions include these dependencies, and any missing ones can be installed through the package manager.
 
