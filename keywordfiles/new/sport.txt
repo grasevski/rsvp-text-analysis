@@ -1,0 +1,402 @@
+aerial ping pong,afl
+aerial pingpong,afl
+alf,afl
+auskick,afl
+australia kick,afl
+australian rule,afl
+collingwood,afl
+essendon,afl
+west coast eagles,afl
+western bulldogs,afl
+west bulldogs,afl
+swans,afl
+carlton,afl
+fitzroy,afl
+brisbane lions,afl
+north melbourne kangaroos,afl
+adelaide crows,afl
+port adelaide,afl
+fremantle dockers,afl
+afl,afl
+Baseball,baseball
+basket ball,basketball
+basketbal,basketball
+nbl,basketball
+10 pin bowl,bowling
+bowl,bowling
+bowler,bowling
+pin,bowling
+tenpin,bowling
+Bowling,bowling
+ten pin,bowling
+ten pin bowling,bowling
+box,boxing
+boxer,boxing
+4wd,carracing
+4wding,carracing
+4x4,carracing
+4x4 drive,carracing
+car racing,carracing
+control car,carracing
+f1,carracing
+ferrari,carracing
+formula,carracing
+formula1,carracing
+grand prix car,carracing
+grand prix race,carracing
+holden,carracing
+v8,carracing
+cars,carracing
+cart racing,cartracing
+kart,cartracing
+cook,cooking
+cricket,cricket
+criket,cricket
+bike,cycling
+bmx,cycling
+cycling;,cycling
+mount bike,cycling
+mountain bike,cycling
+mountain ride,cycling
+pedal,cycling
+push,cycling
+quad bike,cycling
+trail bike,cycling
+trail ride,cycling
+bike racing,cycling
+bike ride,cycling
+bike rides,cycling
+Bike riding,cycling
+Bikeriding,cycling
+Bikes,cycling
+Biking,cycling
+cycle,cycling
+cycling,cycling
+mountain bike riding,cycling
+mountain bikes,cycling
+Mountain Biking,cycling
+ride,cycling
+ride a bike,cycling
+ride my bike,cycling
+riding,cycling
+riding bikes,cycling
+Riding my bike,cycling
+road cycling,cycling
+ballet class,dancing
+ballet dancer,dancing
+ballroom,dancing
+ceroc,dancing
+dancer,dancing
+dancin,dancing
+jive,dancing
+latin,dancing
+modern ballroom,dancing
+modern jive,dancing
+salsa,dancing
+tap,dancing
+ballroom dancing,dancing
+dance,dancing
+dancing,dancing
+fish,fishing
+fisherman,fishing
+fishin,fishing
+spear fish,fishing
+aqua,fitness
+bootcamp,fitness
+fit,fitness
+gym,fitness
+gym;,fitness
+gymn,fitness
+gymnasium,fitness
+gymnast,fitness
+gymnast swim,fitness
+jam,fitness
+jam class,fitness
+lift,fitness
+pump,fitness
+weight,fitness
+workout,fitness
+100m,fitness
+10km fun,fitness
+jog,fitness
+jogger,fitness
+ran,fitness
+runner,fitness
+sprint,fitness
+run,fitness
+tri,fitness
+triathalon,fitness
+triathlon,fitness
+triathalons,fitness
+triathlons,fitness
+ashtanga,fitness
+bikram,fitness
+bikram yoga,fitness
+yoga,fitness
+fly,flying
+aircraft,flying
+air,flying
+fast,flying
+free fall,flying
+free falling,flying
+glide,flying
+hang glide,flying
+para,flying
+sky dive,flying
+tandem jump,flying
+tandem sky dive,flying
+Paragliding,flying
+parasailing,flying
+sky diving,flying
+skydiving,flying
+foot,football
+footbal,football
+football,football
+touch,football
+footie,footy
+footy,footy
+golf,golf
+golfer,golf
+horse racing,horse
+equestrian,horse
+horseback,horse
+horse ride,horse
+chess,indoor
+dart,indoor
+poker,indoor
+8 ball,indoor
+8ball,indoor
+billiard,indoor
+billiard pool,indoor
+billard,indoor
+billards,indoor
+billiards,indoor
+snooker,indoor
+bowls,lawnbowls
+lawn,lawnbowls
+arl,league
+nrl,league
+origin footbal,league
+origin match,league
+origin nrl,league
+rl,league
+state origin,league
+west tigers,league
+state of origin,league
+cowboys,league
+broncos,league
+titans,league
+storm,league
+warriors,league
+raiders,league
+knights,league
+dragons,league
+bulldogs,league
+sharks,league
+sea eagles,league
+eels,league
+panthers,league
+roosters,league
+rabbitohs,league
+aikido,martialarts
+judo,martialarts
+jujitsu,martialarts
+kendo,martialarts
+kick,martialarts
+kick box,martialarts
+kick boxer,martialarts
+kickbox,martialarts
+kickin,martialarts
+kung,martialarts
+kwon,martialarts
+martial,martialarts
+sumo,martialarts
+sword,martialarts
+tae,martialarts
+taekwondo,martialarts
+tai,martialarts
+tai box,martialarts
+thai,martialarts
+kick boxing,martialarts
+Tae Kwon Do,martialarts
+chi,martialarts
+tai chi,martialarts
+taichi,martialarts
+thai chi,martialarts
+australian v8,motorsports
+grand prix bike,motorsports
+grand prix motor,motorsports
+moter,motorsports
+moto,motorsports
+motor,motorsports
+motorx,motorsports
+motox,motorsports
+motor bike racing,motorsports
+motor bike riding,motorsports
+motor bikes,motorsports
+motor cross,motorsports
+motor racing,motorsports
+Motor Sport,motorsports
+Motor Sports,motorsports
+motorbike,motorsports
+motorbike racing,motorsports
+Motorbike riding,motorsports
+Motorbikes,motorsports
+Motorcross,motorsports
+motorcycle racing,motorsports
+motorcycle riding,motorsports
+Motorcycles,motorsports
+motorcycling,motorsports
+motorsport,motorsports
+motorsports,motorsports
+beatles,music
+The Beatles,music
+guitar,music
+gridiron,nfl
+nfl,nfl
+abseil,outdoor
+bush,outdoor
+bushwalk,outdoor
+forest walk,outdoor
+bush walk,outdoor
+Bush Walking,outdoor
+bush walks,outdoor
+bushwalking,outdoor
+bushwalks,outdoor
+camp,outdoor
+camping,outdoor
+mountain climb,outdoor
+mountain climbing,outdoor
+rock climbing,outdoor
+kite,outdoor
+climb,outdoor
+climber,outdoor
+rock,outdoor
+rockclimb,outdoor
+wall,outdoor
+wall climb,outdoor
+blade,outdoor
+roller blade,outdoor
+roller skate,outdoor
+roller blading,outdoor
+roller skating,outdoor
+rollerblade,outdoor
+100km walk,outdoor
+10km,outdoor
+8 km,outdoor
+cliff walk,outdoor
+cliff walking,outdoor
+cliff walks,outdoor
+coastal walk,outdoor
+hike,outdoor
+km,outdoor
+km walk,outdoor
+mile,outdoor
+mountain hike,outdoor
+mountain walk,outdoor
+pace,outdoor
+stroll,outdoor
+trail walk,outdoor
+walk,outdoor
+walker,outdoor
+walkin,outdoor
+walking;,outdoor
+walks,outdoor
+photo,photography
+badmington,racquetsport
+badminton,racquetsport
+badmitton,racquetsport
+croquet,racquetsport
+squash,racquetsport
+ping pong,racquetsport
+pingpong,racquetsport
+pong,racquetsport
+Table tennis,racquetsport
+tennis,racquetsport
+tennis;,racquetsport
+bull fighting,rodeo
+bull riding,rodeo
+bull wrestling,rodeo
+gun,shooting
+pistol,shooting
+shot,shooting
+futsal,soccer
+scoccer,soccer
+soccar,soccer
+soccer,soccer
+soccer;,soccer
+soccor,soccer
+socer,soccer
+socker,soccer
+soocer,soccer
+union,rugby_union
+boat,water
+sail,water
+yacht,water
+body boarding,water
+bodyboarding,water
+bodyboard,water
+bodysurf,water
+body surfing,water
+bodysurfing,water
+dive,water
+diver,water
+jet skiing,water
+jetskiing,water
+jetsking,water
+kayaking,water
+dragon,water
+eight,water
+row,water
+scuba,water
+snorkel,water
+longboard,water
+surf,water
+surfboard,water
+surfer,water
+surfin,water
+wind,water
+windsurf,water
+laps,water
+swam,water
+swim,water
+swimm,water
+swimmer,water
+swimmimg,water
+swimmin,water
+swimming;,water
+beach,water
+kayak,water
+scuba dive,water
+SCUBA diving,water
+jet ski,water
+jet sking,water
+jetski,water
+canoe,water
+canoeing,water
+canyoning,water
+ocean,water
+pole,water
+polo,water
+water,water
+waterpolo,water
+waterski,water
+watersport,water
+water sports,water
+watersports,water
+skate,winter
+ski,winter
+skier,winter
+skiier,winter
+skiing;,winter
+sking,winter
+snow,winter
+winter,winter
+Skiing,winter
+snow ski,winter
+Snow Skiing,winter
+snow sking,winter
+snow sports,winter
+snowboarding,winter
+snowskiing,winter
+snow boarding,winter
