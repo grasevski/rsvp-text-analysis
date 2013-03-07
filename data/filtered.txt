@@ -1,0 +1,4998 @@
+jazz,jazz
+classical,classical
+country,country
+classical,classical
+country,country
+classical,classical
+jazz,jazz
+country,country
+classical,classical
+jazz,jazz
+classical,classical
+jazz,jazz
+classical,classical
+country,country
+classical,classical
+jazz,jazz
+country,country
+classical,classical
+jazz,jazz
+country,country
+classical,classical
+jazz,jazz
+country,country
+classical,classical
+reggae,reggae
+jazz,jazz
+country,country
+classical,classical
+reggae,reggae
+jazz,jazz
+country,country
+classical,classical
+soundtrack,soundtrack
+jazz,jazz
+country,country
+classical,classical
+reggae,reggae
+jazz,jazz
+country,country
+classical,classical
+reggae,reggae
+jazz,jazz
+country,country
+classical,classical
+soundtrack,soundtrack
+reggae,reggae
+jazz,jazz
+country,country
+classical,classical
+soundtrack,soundtrack
+reggae,reggae
+jazz,jazz
+country,country
+classical,classical
+soundtrack,soundtrack
+reggae,reggae
+jazz,jazz
+country,country
+classical,classical
+soundtrack,soundtrack
+reggae,reggae
+jazz,jazz
+country,country
+classical,classical
+soundtrack,soundtrack
+reggae,reggae
+oldies,newage
+jazz,jazz
+country,country
+classical,classical
+soundtrack,soundtrack
+reggae,reggae
+punk,newage
+jazz,jazz
+country,country
+classical,classical
+blues,blues
+soundtrack,soundtrack
+reggae,reggae
+punk,newage
+jazz,jazz
+jazz,blues
+country,country
+classical,classical
+blues,blues
+soundtrack,soundtrack
+rock,rock
+reggae,reggae
+punk,newage
+jazz,jazz
+folk,folk
+country,country
+classical,classical
+blues,blues
+soundtrack,soundtrack
+rock,rock
+reggae,reggae
+punk,newage
+jazz,jazz
+jazz,blues
+folk,folk
+country,country
+classical,classical
+blues,blues
+soundtrack,soundtrack
+rock,rock
+reggae,reggae
+punk,newage
+pop,rock
+oldies,newage
+metal,jazz
+jazz,jazz
+jazz,blues
+folk,folk
+country,country
+classical,classical
+blues,blues
+soundtrack,soundtrack
+rock,rock
+reggae,reggae
+punk,newage
+pop,rock
+oldies,newage
+new age,newage
+metal,jazz
+jazz,jazz
+jazz,blues
+folk,folk
+country,country
+classical,classical
+blues,blues
+alternative,newage
+trance,newage
+soundtrack,soundtrack
+rock,rock
+rock & roll,rock
+reggae,reggae
+punk,newage
+pop,rock
+pop,classical
+oldies,newage
+new age,newage
+new age,blues
+metal,jazz
+jazz,jazz
+jazz,blues
+folk,folk
+country,country
+classical,classical
+blues,blues
+alternative,newage
+soundtrack,soundtrack
+rock,rock
+reggae,reggae
+punk,newage
+punk rock,rock
+pop,rock
+pop,misc
+pop,country
+oldies,newage
+new age,newage
+new age,blues
+metal,jazz
+lyd-bog,soundtrack
+jazz,jazz
+jazz,blues
+hardcore,rock
+folk,folk
+electronic,newage
+country,country
+classical,classical
+blues,blues
+ballad,classical
+alternative,newage
+vocal,misc
+trance,newage
+trance,misc
+trailer,misc
+speech,misc
+soundtrack,soundtrack
+salsa,blues
+rock,rock
+rock,misc
+rock,blues
+rock & roll,rock
+reggae,reggae
+punk,rock
+punk,newage
+punk rock,rock
+progressive rock,rock
+pop,soundtrack
+pop,rock
+pop,newage
+pop,misc
+pop,folk
+pop,classical
+pop,blues
+other,misc
+opera,classical
+oldies,newage
+oldies,misc
+new age,newage
+modern composer,misc
+metal,jazz
+meditative,newage
+language,misc
+jpop,classical
+jpop,blues
+jazz,jazz
+jazz,blues
+indie,folk
+house,newage
+house,misc
+hardcore,rock
+gospel,folk
+game,soundtrack
+folklore,folk
+folk,folk
+electronic,misc
+dance,rock
+dance,newage
+dance,misc
+country,country
+comedy,soundtrack
+classical,classical
+blues,blues
+bluegrass,misc
+bluegrass,country
+ambient,misc
+alternative,newage
+vocal,misc
+vocal,jazz
+vocal,classical
+unknown,misc
+trance,newage
+trance,misc
+top 40,misc
+techno,rock
+techno,newage
+techno,misc
+tango,misc
+swing,jazz
+speech,soundtrack
+speech,misc
+speech,jazz
+speech,blues
+soundtrack,soundtrack
+soundtrack,rock
+soul,rock
+soul,blues
+ska,reggae
+sertanejo,country
+schlager,misc
+salsa,blues
+rock,soundtrack
+rock,rock
+rock,reggae
+rock,newage
+rock,misc
+rock,folk
+rock,country
+rock,classical
+rock,blues
+rock & roll,rock
+rock & roll,misc
+reggae,reggae
+rap,rock
+rap,reggae
+rap,misc
+r&b,newage
+r&b,blues
+punk,rock
+punk,newage
+punk,misc
+punk rock,rock
+punk rock,blues
+psychedelic,misc
+psychedelic rock,rock
+progressive rock,rock
+pop-folk,folk
+pop/funk,misc
+pop,soundtrack
+pop,rock
+pop,reggae
+pop,newage
+pop,misc
+pop,jazz
+pop,folk
+pop,classical
+pop,blues
+other,soundtrack
+other,rock
+other,misc
+opera,classical
+oldies,rock
+oldies,newage
+oldies,misc
+noise,misc
+new age,newage
+new age,blues
+nederlandstalig,folk
+national folk,folk
+musical,soundtrack
+mix,soundtrack
+misc,misc
+metal,rock
+metal,misc
+metal,jazz
+meditative,newage
+meditative,misc
+ljudbok,misc
+latin,rock
+latin,misc
+latin,folk
+language,misc
+language,blues
+klassik,classical
+karaoke,soundtrack
+karaoke,misc
+karaoke,country
+jpop,rock
+jpop,country
+jpop,classical
+j-pop,blues
+jpop,blues
+jazz,newage
+jazz,misc
+jazz,jazz
+jazz,blues
+instrumental,rock
+instrumental,misc
+infantil,blues
+industrial,misc
+indie,rock
+indie,folk
+house,newage
+house,misc
+hip-hop,rock
+hip-hop,newage
+hip-hop,misc
+hindi,soundtrack
+hindi soundtrack,soundtrack
+heavy metal,rock
+hardcore,rock
+hardcore,misc
+hard rock,rock
+gospel,soundtrack
+gospel,folk
+fusion,jazz
+funk,misc
+folk-rock,folk
+folklore,folk
+folk/rock,folk
+folk,folk
+electronic,rock
+electronic,newage
+electronic,misc
+easy listening,misc
+dub,reggae
+drum & bass,misc
+death metal,rock
+dance,rock
+dance,newage
+dance,misc
+dance,jazz
+cuban,misc
+country,country
+contemporary jazz,jazz
+comedy,misc
+club,misc
+classical,misc
+classical,classical
+christmas/holiday,reggae
+christmas,misc
+children,misc
+chanson,misc
+chamber music,classical
+celtic,newage
+celtic,folk
+blues,blues
+bluegrass,folk
+bluegrass,country
+black metal,rock
+big band,jazz
+ballad,misc
+audiobook,misc
+audio book,soundtrack
+audio book,misc
+anime,soundtrack
+anime,misc
+anime,blues
+ambient,soundtrack
+ambient,newage
+ambient,misc
+alternative,newage
+alternative,misc
+alt. rock,misc
+acoustic,misc
+zouk,misc
+zarzuela,classical
+worship,rock
+worship,misc
+worship,classical
+world,reggae
+world,misc
+world,jazz
+world,folk
+world music,misc
+world beat,misc
+weihnachtslieder,classical
+volksmusik,rock
+volksmusik,misc
+volksmusik,folk
+volksmusik,country
+vocal,soundtrack
+vocal,newage
+vocal,misc
+vocal,jazz
+vocal,folk
+vocal,classical
+vocal,blues
+vocal jazz,jazz
+violino classico,classical
+vintage r&b,blues
+various,misc
+various,country
+urban,misc
+unknown,rock
+unknown,misc
+unknown,classical
+undefined,soundtrack
+undefined,misc
+trip-hop,soundtrack
+trip-hop,rock
+trip-hop,newage
+trip-hop,misc
+trip-hop,jazz
+tribal,misc
+tribal,folk
+trash metal,rock
+trance,soundtrack
+trance,rock
+trance,reggae
+trance,newage
+trance,misc
+trance,classical
+trance,blues
+traditional jazz,jazz
+traditional folk,folk
+top 40,soundtrack
+top 40,rock
+top 40,newage
+top 40,misc
+top 40,classical
+thrash metal,rock
+thrash metal,misc
+telugu,soundtrack
+tejano,misc
+techno,soundtrack
+techno,rock
+techno,newage
+techno,misc
+techno,folk
+techno,blues
+techhouse,misc
+tango,soundtrack
+tango,misc
+tango,folk
+tango,blues
+synthpop,rock
+synthpop,newage
+synthpop,misc
+symphony,misc
+symphony,classical
+symphonic rock,rock
+symphonic rock,classical
+swing,misc
+swing,jazz
+sprookje,soundtrack
+spoken word,misc
+speech,soundtrack
+speech,rock
+speech,misc
+speech,folk
+speech,classical
+speech,blues
+spanish,misc
+space,newage
+space,misc
+southern rock,rock
+southern rock,country
+southern rock,blues
+sountrack,soundtrack
+soundtrack,soundtrack
+soundtrack,rock
+soundtrack,misc
+soundtrack,jazz
+soundtrack,classical
+soundtrack,blues
+sound clip,soundtrack
+sound clip,misc
+soul,rock
+soul,reggae
+soul,misc
+soul,jazz
+soul,classical
+soul,blues
+soul jazz,jazz
+sonata,classical
+soca,reggae
+soca,misc
+smooth jazz,jazz
+smooth jazz,blues
+slow rock,rock
+slow rock,folk
+ska,soundtrack
+ska,rock
+ska,reggae
+ska,newage
+ska,misc
+ska punk,rock
+showtunes,soundtrack
+shakespeare,misc
+sertanejo,country
+screw,misc
+sci-fi audio,soundtrack
+schlager,soundtrack
+schlager,misc
+schlager,folk
+schlager,country
+schlager,classical
+scd,folk
+samba,soundtrack
+samba,rock
+samba,reggae
+samba,misc
+samba,jazz
+samba,folk
+samba,classical
+samba,blues
+salsa,misc
+salsa,folk
+salsa,blues
+salsa & merengue,misc
+roots,folk
+rockabilly,rock
+rock,soundtrack
+rock,rock
+rock,reggae
+rock,newage
+rock,misc
+rock,jazz
+rock,folk
+rock,country
+rock,classical
+rock,blues
+rock and roll,rock
+rock / pop,misc
+rock & roll,rock
+rock & roll,misc
+rock & roll,jazz
+rock & roll,blues
+rhythmic soul,blues
+rhythm & blues,rock
+rhythm & blues,blues
+revival,misc
+retro,rock
+retro,misc
+renaissance,classical
+religious,newage
+reggaeton,reggae
+reggae,reggae
+reggae,misc
+rave,newage
+rave,misc
+rap,soundtrack
+rap,rock
+rap,reggae
+rap,newage
+rap,misc
+rap,blues
+ranchero,misc
+ragga,reggae
+radio drama,misc
+rablo,rock
+r&b,soundtrack
+r&b,rock
+r&b,reggae
+r&b,newage
+r&b,misc
+r&b,jazz
+r&b,folk
+r&b,country
+r&b,blues
+r&b*,rock
+r & b soul,blues
+punk,rock
+punk,newage
+punk,misc
+punk,blues
+punk rock,rock
+punk rock,newage
+punk rock,misc
+psychedelic,newage
+psychedelic,misc
+psychedelic,folk
+psychedelic trance,misc
+psychedelic rock,rock
+psychadelic,misc
+progressive,newage
+progressive trance,rock
+progressive rock,rock
+progressive rock,newage
+progressive rock,misc
+progressive rock,classical
+progressive rock,blues
+progressive metal,rock
+primus,rock
+power metal,rock
+pop-rock,rock
+pop-house,reggae
+pop-folk,rock
+pop-folk,misc
+pop-folk,folk
+popcorn,misc
+pop/rock,rock
+pop/rock,misc
+pop/rock,folk
+pop/rock*,rock
+pop/rock*,misc
+pop/funk,rock
+pop/funk,misc
+pop/funk,blues
+pop,soundtrack
+pop,rock
+pop,reggae
+pop,newage
+pop,misc
+pop,jazz
+pop,folk
+pop,country
+pop,classical
+pop,blues
+pop vocals,jazz
+pop italiano,misc
+polka,misc
+polka,folk
+piano,classical
+piano sonata,classical
+party,jazz
+other,soundtrack
+other,rock
+other,reggae
+other,newage
+other,misc
+other,jazz
+other,folk
+other,country
+other,classical
+orgel,classical
+organ,classical
+opera,misc
+opera,classical
+oldies,soundtrack
+oldies,rock
+oldies,newage
+oldies,misc
+oldies,jazz
+oldies,folk
+oldies,country
+oldies,classical
+oldies,blues
+oldie,misc
+old school,soundtrack
+nu jazz,jazz
+noise,soundtrack
+noise,rock
+noise,misc
+noise,classical
+newage,newage
+new wave,rock
+new wave,newage
+new wave,misc
+new age,rock
+new age,newage
+new age,misc
+new age,folk
+new age,classical
+new age,blues
+new age - rythmic,newage
+nederlandstalig,folk
+nederlandstalig,blues
+nature,misc
+nature sounds,misc
+native american,misc
+native american,folk
+native american,country
+national folk,misc
+national folk,folk
+musical,soundtrack
+musical,misc
+musical,classical
+musical ,misc
+musica cristiana,soundtrack
+mpb,rock
+mpb,misc
+mpb,jazz
+motown,blues
+misc,soundtrack
+misc,rock
+misc,misc
+metal,rock
+metal,newage
+metal,misc
+metal,jazz
+metal,blues
+merengue,misc
+merengue,blues
+meditative,soundtrack
+meditative,newage
+meditative,misc
+meditative,folk
+meditative,classical
+meditation,newage
+medieval,classical
+medeival,classical
+m,rock
+lydbok,misc
+lyd-bog,misc
+luisterboek,soundtrack
+love songs,misc
+lounge,newage
+lounge,misc
+lounge,jazz
+lo-fi,jazz
+ljudbok,misc
+live,soundtrack
+lieder,classical
+latin,soundtrack
+latin,rock
+latin,reggae
+latin,newage
+latin,misc
+latin,jazz
+latin,folk
+latin,country
+latin,classical
+latin,blues
+language,misc
+language,jazz
+language,classical
+language lessons,misc
+krautrock,rock
+klassk,classical
+klassik,classical
+kinderlieder,misc
+kinder,misc
+kids,rock
+kids,misc
+kids,folk
+keyboard works,classical
+karuwacho electronic / dance,reggae
+karneval,misc
+karaoke,soundtrack
+karaoke,rock
+karaoke,misc
+karaoke,folk
+karaoke,country
+karaoke,blues
+karaoke oldies,rock
+karaoke country,country
+karaoke 60's,rock
+jungle,reggae
+jungle,newage
+jpop,soundtrack
+j-pop,rock
+jpop,rock
+jpop,reggae
+jpop,newage
+j-pop,misc
+jpop,misc
+jpop,folk
+j-pop,country
+jpop,country
+j-pop,classical
+jpop,classical
+j-pop,blues
+jpop,blues
+jewish,misc
+jazz+funk,jazz
+jazz/blues,jazz
+jazz,soundtrack
+jazz,newage
+jazz,misc
+jazz,jazz
+jazz,folk
+jazz,classical
+jazz,blues
+jazz rock,jazz
+jazz piano,jazz
+jazz - west coast,jazz
+jam,rock
+jam band,rock
+italo disco,folk
+italiano,folk
+islamic,misc
+irish folk,folk
+interview,rock
+interview,newage
+instrumental,soundtrack
+instrumental,rock
+instrumental,newage
+instrumental,misc
+instrumental,jazz
+instrumental,folk
+instrumental,classical
+instrumental,blues
+instrumental rock,rock
+instrumental rock,misc
+instrumental pop,soundtrack
+instrumental pop,rock
+infantil,misc
+infantil,folk
+industrial,rock
+industrial,newage
+industrial,misc
+industrial rock,rock
+industrial / dance metal,folk
+indie,soundtrack
+indie,rock
+indie,reggae
+indie,newage
+indie,misc
+indie,folk
+indie rock,misc
+indie pop/rock,folk
+indian film music - hindi,soundtrack
+indian classical,classical
+idm,misc
+humour,soundtrack
+humour,reggae
+humour,misc
+house,soundtrack
+house,rock
+house,newage
+house,misc
+house,jazz
+house,folk
+house,blues
+hollands,misc
+holiday,classical
+hoerspiel,misc
+hoerbuch,soundtrack
+hoerbuch,misc
+hip-hop,soundtrack
+hip-hop,rock
+hip-hop,reggae
+hip-hop,newage
+hip-hop,misc
+hiphop,misc
+hip-hop,jazz
+hip-hop,country
+hip-hop,classical
+hip-hop,blues
+hip hop,soundtrack
+hip hop,rock
+hip hop,newage
+hip hop,misc
+hip hop,blues
+hindi,soundtrack
+hindi soundtrack,soundtrack
+hindi soundtrack,misc
+heavy metal,rock
+heavy metal,misc
+heavy metal,jazz
+heavy metal,blues
+hawaiian,misc
+hardstyle,soundtrack
+hardcore,rock
+hardcore,newage
+hardcore,misc
+hardcore,blues
+hardcore punk,rock
+hard rock,rock
+hard rock,reggae
+hard rock,newage
+hard rock,misc
+hard rock,classical
+hard rock,blues
+halloween,misc
+gypsy,folk
+grunge,rock
+grindcore,rock
+grindcore,misc
+gothic,rock
+gothic,misc
+gothic,folk
+gothic rock,rock
+gothic rock,misc
+gothic rock,folk
+gothic doom metal,folk
+gospel,soundtrack
+gospel,rock
+gospel,newage
+gospel,misc
+gospel,jazz
+gospel,folk
+gospel,country
+gospel,classical
+gospel,blues
+gospel & religious,soundtrack
+goa,newage
+goa,misc
+gitarre,classical
+ghazal,misc
+geraeusche,blues
+genocidal,rock
+general rock,rock
+general electronic,misc
+garage,newage
+garage rock,folk
+game,soundtrack
+game,misc
+game,blues
+fusion,newage
+fusion,misc
+fusion,jazz
+fusion,blues
+funk,rock
+funk,newage
+funk,misc
+funk,jazz
+funk,folk
+funk,blues
+freestyle,misc
+fox,rock
+folk-rock,rock
+folk-rock,folk
+folkrock,folk
+folklore,soundtrack
+folklore,misc
+folklore,folk
+folk/rock,rock
+folk/rock,misc
+folk/rock,folk
+folk/rock,blues
+folk,rock
+folk,newage
+folk,misc
+folk,folk
+folk,country
+folk,blues
+folclore,folk
+flamenco,misc
+flamenco,folk
+flamenco,classical
+filmmusik,soundtrack
+film soundtrack,soundtrack
+fast fusion,folk
+experimental,misc
+euskopop,blues
+euro-house,misc
+eurodance,soundtrack
+eurodance,rock
+eurodance,newage
+eurodance,misc
+ethnic,rock
+ethnic,misc
+ethnic,folk
+ethnic,country
+ethnic,classical
+electronica,rock
+electronica,misc
+electronic,soundtrack
+electronic,rock
+electronic,reggae
+electronic,newage
+electronic,misc
+electronic,jazz
+electronic,country
+electronic,classical
+electronic,blues
+electronic listening music; fusion; jazz,jazz
+easy listening,soundtrack
+easy listening,rock
+easy listening,newage
+easy listening,misc
+easy listening,jazz
+easy listening,folk
+easy listening,classical
+easy listening,blues
+dub,reggae
+dub,misc
+drum solo,folk
+drum & bass,newage
+drum & bass,misc
+dream,misc
+dramatic audio,soundtrack
+dramatic audio,misc
+doom,rock
+doom metal,rock
+doom metal,misc
+doo wop,rock
+disco,soundtrack
+disco,rock
+disco,newage
+disco,misc
+disco,classical
+deutsch-rock,misc
+deutsch,misc
+deutsch,folk
+deutsch,blues
+deutsch rock,misc
+death metal,rock
+death metal,misc
+death metal,classical
+darkwave,rock
+darkwave,misc
+dark ambient,misc
+danseband,folk
+dansband,classical
+dancehall,reggae
+dance/trance,newage
+dance,soundtrack
+dance,rock
+dance,reggae
+dance,newage
+dance,misc
+dance,jazz
+dance,folk
+dance,country
+dance,classical
+dance,blues
+dance hall,reggae
+dance hall,folk
+dance / disco,misc
+dance / 80's,rock
+d,folk
+cuban son,classical
+crossover,rock
+crossover,misc
+crossover,classical
+country,rock
+country,misc
+country,folk
+country,country
+country,blues
+country rock,country
+contes,folk
+contemporary jazz,jazz
+contemporary christianchristian rock,classical
+contemporary christian,rock
+contemporary christian,misc
+contemporary christian,folk
+contemporary christian,country
+contemporary christian,classical
+concerto,classical
+compilation,misc
+comedy,soundtrack
+comedy,misc
+comedy,folk
+comedy,country
+club-house,misc
+club,soundtrack
+club,rock
+club,newage
+club,misc
+classique,classical
+classical,soundtrack
+classical,rock
+classical,newage
+classical,misc
+classical,country
+classical,classical
+classical,blues
+classica,classical
+classic,misc
+classic,classical
+classic rock,rock
+classic rock,misc
+classic rock,classical
+classic country,country
+christmas-pop,misc
+christmas/holiday,reggae
+christmas/holiday,misc
+christmas/holiday,jazz
+christmas/holiday,country
+christmas,misc
+christmas,jazz
+christmas,folk
+christmas,country
+christmas,classical
+christmas music,misc
+christian,newage
+christian,misc
+christian,folk
+christian worship,misc
+christian rock,rock
+christian rock,misc
+christian historical,soundtrack
+chorus,misc
+chorus,folk
+chorus,classical
+choral,classical
+chillout,newage
+chill out,newage
+children's,misc
+childrens,misc
+children,misc
+charts,newage
+chant,misc
+chanson,rock
+chanson,misc
+chanson,folk
+chanson,country
+chanson,classical
+chanson,blues
+chamber,classical
+chamber music,misc
+chamber music,classical
+celtic,newage
+celtic,misc
+celtic,folk
+celtic,blues
+cello,classical
+cd-bok,soundtrack
+cd-bok,misc
+cajun,folk
+cabaret,misc
+brutal death metal,rock
+britpop,rock
+brega,soundtrack
+brega,misc
+brazil,jazz
+bossa nova,jazz
+bootleg,rock
+books & spoken,soundtrack
+books & spoken,misc
+book,misc
+book reading,soundtrack
+bollywood,soundtrack
+bolero,misc
+blues-rock,rock
+blues,rock
+blues,misc
+blues,jazz
+blues,folk
+blues,blues
+blues rock,blues
+bluegrass,misc
+bluegrass,folk
+bluegrass,country
+blasmusik,folk
+black metal,rock
+black metal,reggae
+black metal,misc
+black metal,classical
+big-band,jazz
+big band,misc
+big band,jazz
+bible,soundtrack
+bible,misc
+beat,rock
+bass,classical
+baroque,classical
+baroque / chambre,classical
+ballroom,misc
+ballet,classical
+ballads,misc
+ballades,misc
+ballad,rock
+ballad,misc
+ballad,jazz
+ballad,folk
+ballad,classical
+ballad,blues
+bagpipes,folk
+bachatu,misc
+avantgarde,soundtrack
+avantgarde,rock
+avantgarde,newage
+avantgarde,misc
+avantgarde,jazz
+avantgarde,folk
+avantgarde,classical
+austropop,misc
+australian rock,rock
+audiolibri,misc
+audiodrama,misc
+audiobook,soundtrack
+audiobook,misc
+audio book,soundtrack
+audio book,misc
+audio book (unabridged),misc
+anime,soundtrack
+anime,misc
+anime,classical
+anime,blues
+ancient music,classical
+americana,country
+ambient,soundtrack
+ambient,rock
+ambient,newage
+ambient,misc
+ambient,classical
+ambient - meditation,newage
+ambiance,soundtrack
+alternrock,rock
+alternrock,blues
+alternative,soundtrack
+alternative,rock
+alternative,reggae
+alternative,newage
+alternative,misc
+alternative,jazz
+alternative,folk
+alternative,country
+alternative,blues
+alternative rock,rock
+alternative country,country
+alt.rock,rock
+alt. rock,rock
+alt. rock,misc
+alt. pop/rock,blues
+alt. country,country
+alt rock,rock
+afrikaans,misc
+african beat,misc
+acoustic,soundtrack
+acoustic,rock
+acoustic,newage
+acoustic,misc
+acoustic,jazz
+acoustic,folk
+acoustic,classical
+acoustic,blues
+acid,newage
+acid punk,newage
+acid jazz,newage
+acid jazz,jazz
+acapella,misc
+a cappella,misc
+a cappella,jazz
+a cappella,classical
+a cappella,blues
+20th century,classical
+various,misc
+various,newage
+various,misc
+various,rock
+various,newage
+various,misc
+various,country
+various,soundtrack
+various,rock
+various,misc
+various,country
+various,classical
+cindy lauper,classical
+various,soundtrack
+various,rock
+various,reggae
+various,newage
+various,misc
+various,jazz
+various,folk
+various,country
+various,blues
+nordcore,rock
+weis margaret,soundtrack
+various,soundtrack
+various,rock
+various,reggae
+various,newage
+various,misc
+various,jazz
+various,folk
+various,country
+various,classical
+various,blues
+pimsleur,misc
+phil collins,rock
+herbie hancock,jazz
+wolfgang petry,rock
+various,soundtrack
+various,rock
+various,reggae
+various,newage
+various,misc
+various,jazz
+various,folk
+various,country
+various,classical
+various,blues
+various artists,soundtrack
+various artists,rock
+various artists,reggae
+various artists,newage
+various artists,misc
+various artists,folk
+various artists,blues
+u2,rock
+traffic,rock
+taubl family,classical
+show video,misc
+reba mcentire,country
+pimsleur,misc
+morton feldman,misc
+miles davis,jazz
+metallica,rock
+louis armstrong,jazz
+long versions,rock
+led zeppelin,rock
+laibach,misc
+kiss,rock
+john coltrane,jazz
+george strait,country
+douglas adams,misc
+dire straits,rock
+diamond rio,country
+dane spotts,newage
+bob marley,reggae
+beach boys,rock
+yes,rock
+yanni,newage
+yann tiersen,soundtrack
+wishbone ash,rock
+wang chung,rock
+w.a.s.p.,rock
+various,soundtrack
+various,rock
+various,reggae
+various,newage
+various,misc
+various,jazz
+various,folk
+various,country
+various,classical
+various,blues
+various artists,soundtrack
+various artists,rock
+various artists,reggae
+various artists,newage
+various artists,misc
+various artists,jazz
+various artists,folk
+various artists,country
+various artists,classical
+various artists,blues
+vangelis,soundtrack
+vangelis,newage
+usher,misc
+udo lindenberg,rock
+ub40,reggae
+u2,rock
+tryo,reggae
+tony bennett,jazz
+tintin,soundtrack
+this american life,misc
+terry pratchett,misc
+tangerine dream,newage
+sublime,rock
+steve mcdonald,folk
+stanley clarke,jazz
+st germain,jazz
+silvio santos,blues
+shannon curfman,blues
+shania twain,country
+shaggy,reggae
+sean paul,reggae
+schiller,newage
+sailor moon,soundtrack
+sade,jazz
+roy orbison,rock
+roxette,rock
+rory block,blues
+rob zombie,rock
+ricky martin,misc
+red hot chili peppers,rock
+r.e.m.,rock
+queen,rock
+pixies,rock
+pink floyd,rock
+pimsleur,misc
+pimsleur,blues
+peter tosh,reggae
+peter gabriel,rock
+pearl jam,rock
+patsy cline,country
+nanci griffith,country
+mxpx,rock
+mp3pesnicky,soundtrack
+mozart,classical
+milt jackson,jazz
+miles davis,jazz
+midori,newage
+michael jackson,rock
+metallica,rock
+metallica,jazz
+merle haggard,country
+massive attack,misc
+mark chesnutt,country
+marillion,rock
+manu chao,reggae
+low,soundtrack
+louis armstrong,jazz
+lobes,blues
+linkin park,rock
+lester levenson - digitally remastered,blues
+led zeppelin,rock
+klaus badelt,soundtrack
+king crimson,rock
+kenny rogers,country
+kenny g,jazz
+keith jarrett,newage
+kaustubh.com,soundtrack
+karl jenkins,newage
+julio iglesias,misc
+jonny l,misc
+jon anderson,newage
+john williams,soundtrack
+john lee hooker,blues
+john coltrane,jazz
+john coltrane,blues
+joe hisaishi,misc
+jimmy buffett,rock
+jimi hendrix,rock
+jimi hendrix,blues
+jim reeves,country
+jewel,misc
+jethro tull,rock
+jerry goldsmith,soundtrack
+iron maiden,rock
+howard shore,soundtrack
+hellacopters,rock
+gustav mahler,classical
+gonzalo rubalcaba,jazz
+genesis,rock
+frank sinatra,jazz
+focus,rock
+fleetwood mac,rock
+fear factory,rock
+fdgsdfgdsf,misc
+extremoduro,rock
+eurythmics,rock
+eric marienthal,jazz
+enya,newage
+elvis presley,rock
+ella fitzgerald,misc
+eddie vedder,soundtrack
+duke ellington,jazz
+dream theater,rock
+donald byrd,jazz
+don omar,reggae
+django reinhardt,jazz
+dizzy mizz lizzy,rock
+disney,soundtrack
+dire straits,rock
+depeche mode,rock
+depeche mode,misc
+deep purple,rock
+dave matthews band,rock
+dark angel,rock
+creedence clearwater revival,rock
+children,misc
+charles mingus,jazz
+candlemass,rock
+burl ives,soundtrack
+buddy guy,blues
+bob marley,reggae
+bob marley & the wailers,reggae
+bob dylan,folk
+black uhuru,reggae
+bette midler,soundtrack
+beethoven,classical
+beatles,rock
+art pepper,jazz
+art of noise,misc
+april wine,rock
+anugama,newage
+angels of venice,classical
+aerosmith,rock
+aa.vv,soundtrack
+zz top,rock
+zz top,blues
+zubin mehta,classical
+zoot sims,jazz
+ziggy marley and the melody makers,reggae
+zeros,newage
+zero 7,misc
+zen baseballbat,soundtrack
+zeca pagodinho,soundtrack
+zeca pagodinho,reggae
+zbyszek & danusia happy end,folk
+zbigniew preisner,soundtrack
+zard,classical
+zappotexdj mix,misc
+zapp,rock
+zakir hussain,misc
+yuppie flu,folk
+yui,soundtrack
+yuhki kuramoto,newage
+yo-yo ma,classical
+young gods,rock
+young gods,misc
+young bo,misc
+yolanda adams,folk
+yoko shimomura,soundtrack
+yoel levi,classical
+yngwie johann malmsteen,rock
+yngwie j. malmsteen's rising force,rock
+yes,rock
+yes,misc
+yes,blues
+yepparty.com,rock
+yellowjackets,jazz
+yello,misc
+yefim bronfman - isaac stern,classical
+yeah yeah yeahs,rock
+yazz,misc
+yazoo,rock
+yasunori mitsuda,soundtrack
+yasunori mitsuda,misc
+yardbirds,rock
+yardbirds,blues
+yanni,newage
+yann tiersen,soundtrack
+yann tiersen,misc
+yangpa,blues
+xtc,rock
+xavier rudd,folk
+xavier naidoo,soundtrack
+xavier naidoo,misc
+x factor,soundtrack
+wynton marsalis,jazz
+www.djluv.in,soundtrack
+wu-tang clan,reggae
+wrecks-n-effect,misc
+woody shaw,jazz
+wood brothers,country
+wolgang amadeus mozart,classical
+wolfmother,rock
+wolfgang press,rock
+wolfgang petry,misc
+wolfgang ambros,folk
+wolfgang amadeus mozart,classical
+wladimir kaminer,misc
+wishbone ash,rock
+wire,rock
+winds,misc
+wim mertens,newage
+wim mertens,misc
+wim mertens,classical
+willu,misc
+willu (encoded by linuxdoc),newage
+willowglass,rock
+willie nelson,country
+william shakespeare,soundtrack
+william bowden & sean tinslay,misc
+wilkinsons,country
+wild cherry,blues
+wilco,rock
+wiggles,soundtrack
+wiener mozart ensemble - willi boskovsky,classical
+widor & vierne,classical
+widespread panic,rock
+wibke bruhns,misc
+why store,rock
+whole brain learning institute,misc
+who,rock
+whitney houston,soundtrack
+whitney houston,rock
+whitney houston,jazz
+whitesnake,rock
+white zombie,rock
+white magic,folk
+wheatus,rock
+wheatus,blues
+westlife,newage
+westar music,soundtrack
+west road blues band,blues
+wes montgomery,jazz
+wendy carlos,classical
+wendi friesen,newage
+weezer,rock
+ween,misc
+weavers,folk
+weather report,jazz
+wayne shorter,jazz
+waylon jennings,country
+wax,rock
+waterbone,newage
+watch,rock
+war,rock
+wanda landowska,classical
+walt disney,soundtrack
+walt disney,misc
+walker brothers,misc
+waifs,folk
+wagner,misc
+wagner,classical
+w.a.s.p.,rock
+vonda shepard,soundtrack
+vond,misc
+voltaire,misc
+volbeat,rock
+vnv nation,misc
+vladimir horowitz,classical
+vladimir chekasin,jazz
+vladimir ashkenazy,classical
+vl.ashkenazy - radio-symphonie-orchester-berlin,classical
+vivian campbell,blues
+vivaldi,classical
+vital remains,rock
+vison - dj seduction (1992),classical
+visionaries,newage
+virtual audio environments,blues
+virgil shaw,country
+viper,rock
+vintersorg,rock
+vineyard music group,misc
+vincent herring,jazz
+vince guaraldi,jazz
+vince gill,country
+village of ketewel,folk
+villa lobos,classical
+vilayat khan & bismillah khan,classical
+vikinger,soundtrack
+viima,rock
+vidiek,rock
+victor e leo,country
+victor borge,misc
+vibrators,rock
+veselka,folk
+verve,rock
+verschillende artiesten,folk
+verschiedene,folk
+vernon reid,rock
+verdi,classical
+vera lynn,jazz
+ventures,rock
+venganza,rock
+vengaboys,misc
+velvet underground,rock
+velvet revolver,rock
+velvet cacoon,rock
+vegitation,reggae
+vaughn monroe,rock
+vassendgutane,country
+varukers,rock
+varius,soundtrack
+variuos,rock
+various,soundtrack
+various,rock
+various,reggae
+various,newage
+various,misc
+various,jazz
+various,folk
+various,country
+various,classical
+various,blues
+various wedding,misc
+various composers,classical
+various artists: bruce springsteen,rock
+various artists,soundtrack
+various artists,rock
+various artists,reggae
+various artists,newage
+various artists,misc
+various artists,jazz
+various artists,folk
+various artists,country
+various artists,classical
+various artists,blues
+various artists megamixes,newage
+various artist,soundtrack
+various artist,rock
+various artist,reggae
+various artist,misc
+various artist,classical
+varios,soundtrack
+varios,rock
+varios,newage
+varios,misc
+varios,folk
+varios,country
+varios,classical
+varios,blues
+varios artistas,folk
+vangelis,soundtrack
+vangelis,newage
+vangelis,classical
+vanessa-mae,classical
+vanessa paradis,rock
+vanessa daou,newage
+vander michelot lubat,jazz
+vandals,rock
+van morrison,rock
+van morrison,blues
+van halen,rock
+valve,soundtrack
+va,soundtrack
+va,rock
+va,reggae
+va,newage
+va,misc
+va,folk
+va,country
+va,blues
+v.a.,rock
+v.a.,misc
+v.a.,folk
+v.a,rock
+utopia,rock
+ute lemper,jazz
+usher,misc
+uruk-hai,misc
+urs karpatz,folk
+uriah heep,rock
+urban knights,jazz
+urban dance squad,misc
+urban cookie collective,rock
+uno,classical
+unknown,misc
+unknown,classical
+univers zero,rock
+unearth,jazz
+underworld,misc
+ultravox,rock
+ufo,rock
+udi hrant,folk
+ub40,reggae
+u2,rock
+u2,misc
+u.d.o.,jazz
+u totem,misc
+u roy,reggae
+tyrell bros,soundtrack
+type o negative,rock
+tyler bates,soundtrack
+tycho brahe,rock
+tyburn tall,rock
+twin obscenity,misc
+twilight zone,misc
+turtles,rock
+turbonegro,rock
+tupac,soundtrack
+tsukasa tawada,soundtrack
+tschaikovsky,classical
+trzeci wymiar,misc
+tryo,reggae
+truck stop,country
+tropical fantasia,misc
+tristania,rock
+tristania,folk
+triskehle,folk
+trisha yearwood,country
+trio los panchos,misc
+trinity blue,folk
+trilok gurtu,jazz
+tricky,misc
+tribo de jah,reggae
+triangle,misc
+triana,rock
+tremeloes,rock
+travis tritt,country
+transvision vamp,rock
+transmission0,jazz
+transatlantic,rock
+tranquillity,newage
+train,rock
+traffic,rock
+trade past-present-future,blues
+tracy byrd,country
+tractors,country
+trace adkins,country
+toyes,reggae
+tower of power,rock
+tower of power,blues
+toto,rock
+total,rock
+toshiro masuda,soundtrack
+tosca,misc
+torn,soundtrack
+tori amos,rock
+torche,misc
+toquinho & sadao watanabe,jazz
+toots and the maytals,reggae
+tool,rock
+tool,misc
+too short,misc
+tony hillerman,misc
+tony di bart,rock
+tony bennett,jazz
+tonico e tinoco,country
+tonico & tinoco,country
+toni childs,rock
+tommy thompson,folk
+tommy shane steiner,country
+tommy johnson,blues
+tommy flanagan,jazz
+tommy emmanuel,blues
+tommy dorsey,misc
+tommy dorsey,jazz
+tomita,newage
+tomatito,folk
+tomas michaud,newage
+tomas michaud,folk
+tomas linka a pavel brumer,country
+tom waits,blues
+tom t. hall,country
+tom scott,jazz
+tom rush,folk
+tom petty,misc
+tom petty and the heartbreakers,rock
+tom newman,newage
+tokyo ghetto pussy,misc
+todd rundgren,rock
+tocotronic,rock
+tocotronic,misc
+toby keith,country
+tobias tinker,soundtrack
+tnt,rock
+tlc,rock
+tlc,misc
+tish hinojosa,misc
+tish hinojosa,country
+tinsley ellis,blues
+tindersticks,soundtrack
+tinariwen,folk
+tina turner,rock
+time,rock
+time life music,newage
+tim wilson,misc
+tim mcgraw,country
+tim lahaye & jerry b. jenkins,soundtrack
+tim lahaye & jerry b. jenkins,misc
+tim buckley,misc
+tim & paul frantzich,folk
+till fellner,classical
+tiken jah fakoly,reggae
+tiga,rock
+tiga,misc
+tibagi e miltinho,country
+thyrfing,misc
+thurston moore,rock
+thuja,newage
+three dog night,rock
+thompson twins,rock
+thomas friz;  klaus wuckelt,folk
+thk,misc
+this american life,misc
+third day,misc
+thin lizzy,rock
+they might be giants,rock
+therion,rock
+therapy,rock
+thelonious monk,jazz
+textures,rock
+testament,rock
+terumasa hino,jazz
+terry riley,newage
+terry pratchett,soundtrack
+terry pratchett,misc
+terri clark,country
+tennessee ernie ford,misc
+temptations,misc
+temptations,blues
+temple of the dog,rock
+television,rock
+tego calderon,reggae
+teencats,rock
+ted nugent,rock
+ted herold,rock
+ted hawkins,blues
+technotronic,rock
+technotronic,newage
+tebaldi/del monaco/bastianini,classical
+tears for fears,rock
+tea party,rock
+tea and pot,newage
+tchaikovsky,classical
+tatiana nikolaeva,classical
+tata simonian,folk
+tarrus riley,reggae
+tanya tucker,country
+tanya savory,folk
+tantra,newage
+tangerine dream,newage
+tan dun,soundtrack
+tampa red,blues
+tamora pierce,misc
+tammy wynette,country
+tall paul,misc
+talking heads,rock
+taku iwasaki,soundtrack
+takara,rock
+taj mahal,blues
+tait,rock
+t99,misc
+t.a.t.u. + rammstein,misc
+szymon wydra & carpe diem,rock
+system of a down,rock
+system f,misc
+synergy,newage
+symphony x,misc
+sylvan,rock
+swollen members,rock
+swingle singers,folk
+swing out sister,rock
+sweet,rock
+sweet smoke,rock
+suzy bogguss,country
+suzanne vega,rock
+susan ashton,country
+surface,blues
+supertramp,rock
+supertramp,misc
+supergrass,rock
+sunflykaraoke,soundtrack
+sundance,misc
+sun ra,jazz
+sum 41,newage
+suite chic,rock
+suicidal tendencies,rock
+sugarcubes,rock
+sugababes,rock
+sudha ragunathan,misc
+subway to sally,folk
+subterra,rock
+substructure,misc
+sublime,rock
+sublime,reggae
+styx,rock
+studio b,misc
+studio 2,rock
+stu phillips,soundtrack
+stromkern,misc
+strokes,newage
+string quartet,classical
+string cheese incident,rock
+street tracks,rock
+strauss,classical
+stratovarius,rock
+stranglers,rock
+stooges,rock
+stonewall jackson,country
+stockhausen,classical
+sting,soundtrack
+sting,rock
+still remains,jazz
+stieg larsson,soundtrack
+stevie wonder,rock
+stevie wonder,misc
+stevie ray vaughan,blues
+stevie ray vaughan and double trouble,rock
+stevie ray vaughan and double trouble,blues
+stevie ray vaughan & double trouble,blues
+steven curtis chapman,misc
+steve winwood,rock
+steve waring,misc
+steve vai,rock
+steve roach and vidna obmana,newage
+steve roach & vidna obmana,newage
+steve roach & byron metcalf,newage
+steve reich,classical
+steve miller band,rock
+steve martin,misc
+steve lacy,jazz
+steve ivey,misc
+steve earle,newage
+steve earle,country
+steve coleman and metrics,jazz
+steve coleman and five elements,jazz
+steriogram,rock
+stereophonics,rock
+steppenwolf,rock
+stephenie meyer,misc
+stephen schwartz,soundtrack
+stephen malkmus & the jicks,rock
+stephen lynch,folk
+stephen king,misc
+stephen kent,folk
+stephen endelman,soundtrack
+stephen coonts,misc
+stephane grappelli,jazz
+stefan demert,misc
+steely dan,rock
+steely dan,jazz
+steelheart,rock
+steel pulse,reggae
+statler brothers,country
+starting line,rock
+stardust,misc
+star wars,soundtrack
+stanley turrentine,jazz
+stanley turrentine & the three sounds,jazz
+stanley clarke,jazz
+stan getz,jazz
+stalaggh,rock
+stakka bo,jazz
+staind,rock
+squirrel nut zippers,jazz
+spyro gyra,jazz
+spunk,misc
+spock's beard,rock
+split,misc
+spirogyra,folk
+spiritualized,rock
+spiritualized,newage
+spin doctors,rock
+spice girls,misc
+spencer w. kimball,misc
+spencer davis group,rock
+special efx,jazz
+special dreams,blues
+sparks,rock
+space,rock
+southern all stars,country
+southern all stars,blues
+soundtrack,soundtrack
+sound ideas series 7000 ambience ii sound effects library,soundtrack
+sound choice,misc
+sound choice,country
+soulstorm,rock
+soul brothers,jazz
+soul asylum,rock
+sons of the pioneers,country
+sons and daughters,rock
+sons and daughters,misc
+sonora matancera,classical
+sonny stitt,jazz
+sonny rollins,jazz
+sonny clark,jazz
+sonny boy williamson,blues
+sonic youth,rock
+sonic team,soundtrack
+sonic seducer,newage
+sonata arctica,jazz
+solar quest,newage
+soft machine,rock
+social distortion,rock
+snuff,rock
+snowy white,rock
+snowy white,blues
+sneaky pete & the cool cats,rock
+smokie,rock
+smokey robinson & the miracles,rock
+smiths,rock
+smiths,misc
+smashing pumpkins,rock
+smashing pumpkins,misc
+smashing pumpkins,blues
+smash mouth,rock
+smaller,newage
+small brown bike,misc
+slovak philharmonic cond michael halasz,classical
+slint,rock
+slime,rock
+slim,misc
+slim dusty,country
+sleazesisters,newage
+slayer,rock
+slayer,reggae
+slaughter,rock
+slapshot,rock
+skunkhour,jazz
+skrewdriver,misc
+skip james,blues
+skinny puppy,rock
+skatalites,reggae
+skank,rock
+skalpel,jazz
+sizzla,reggae
+sister carol,reggae
+sir mix-a-lot,rock
+sir malcolm arnold,classical
+siobhan donaghy,misc
+singers unlimited,jazz
+simpsons,soundtrack
+simply red,rock
+simple plan,newage
+simple plan,misc
+simple plan,classical
+simple minds,rock
+simon & garfunkel,rock
+simon & garfunkel,folk
+silvia wallimann,misc
+silicon brain,newage
+sights unseen,misc
+sidnet bechet,jazz
+siavash ghomayshi,misc
+siamsa,folk
+shura cherkassky,classical
+shudder to think,soundtrack
+shostakovich,classical
+shiro sagisu,soundtrack
+shirley bassey,jazz
+shirley bassey,blues
+sheila chandra,newage
+sheer terror,rock
+sheena easton,rock
+sharon shannon,folk
+sharam,misc
+shankar,jazz
+shania twain,misc
+shania twain,country
+shangri-las,misc
+shanghai traditional orchestra,rock
+shamen,misc
+shaman,rock
+shakira,folk
+shakin' stevens,rock
+shakatak,jazz
+shakalabbits,classical
+shaggy,reggae
+shaggy,misc
+shadows,rock
+shadowfax,newage
+shabba ranks feat maxi priest,reggae
+sezen aksu,misc
+sex pistols,newage
+sevendust,rock
+seven mary three,rock
+sevara nazarkhan,folk
+serpent obscene,misc
+sergio mendes,jazz
+sergio mendes & brasil '66,jazz
+sergi vincente,classical
+sequentia,classical
+sepultura,rock
+sepsism,rock
+semisonic,rock
+semino rossi,misc
+seguridad social,misc
+seer,folk
+seefeel,misc
+seeed,reggae
+secret garden,newage
+seb fontain,newage
+seatbelts,soundtrack
+sean paul,reggae
+seal,rock
+seal,misc
+seafood,misc
+screaming trees,rock
+scream,rock
+scott henderson,jazz
+scorpions,rock
+scorpions & berliner philharmoniker,rock
+scooter,soundtrack
+scooter,rock
+scooter,misc
+scooter,jazz
+scolohofo,blues
+scirocco,folk
+schola cantorum coloniensis,classical
+schiller,newage
+schiller,misc
+saxon,rock
+save ferris,rock
+savatage,rock
+savage garden,rock
+saturnus,rock
+satanic surfers,rock
+sarah vaughan,jazz
+sarah mclachlan,rock
+sarah mclachlan,misc
+sarah mclachlan,folk
+sarah connor,rock
+sarah connor,misc
+sarah chang,classical
+sarah brightman,newage
+sarah brightman,classical
+saor patrol,folk
+santana,rock
+santana,jazz
+santana,blues
+sanguis et cinis,folk
+sandy denny,folk
+sandra,misc
+sandoz lab technicians,rock
+sandelan,newage
+sanctuary,rock
+sana,soundtrack
+sampler,soundtrack
+sampler,rock
+sampler,newage
+sampler,country
+sam kinison,misc
+sam brown,blues
+saint-saens,classical
+sailor moon,soundtrack
+safri duo,misc
+sade,jazz
+sade,blues
+sacred reich,rock
+sabu martinez,jazz
+sabrina,misc
+sabri brothers & ensemble,folk
+sabine und wolfgang meyer,classical
+s.h.e,classical
+s. & v. theunisz,misc
+s,folk
+s club,misc
+ryukyu underground,misc
+ryuichi sakamoto,soundtrack
+ruth kraft,classical
+russill paul,newage
+rush,rock
+runrig,folk
+running wild,rock
+rufio,rock
+rudolf kempe - muenchner philharmoniker,classical
+rpm,rock
+royal philharmonic orchestra,classical
+royal crown revue,jazz
+roy orbison,rock
+roy hargrove quintet,jazz
+roy eldridge,jazz
+roy buchanan,blues
+roxette,rock
+rosie flores,country
+rosetta stone,rock
+rosenberg trio,classical
+rosemary woods,folk
+rosemary clooney,jazz
+rose nascimento,folk
+rosanne cash,country
+rosalyn tureck,classical
+rosa de saron,newage
+rory block,blues
+ronnie milsap,country
+ronnie mcdowell,country
+rondo veneziano,classical
+ron dunivan,country
+ron carter,jazz
+ron allen,newage
+ron allen & one sky,newage
+ron "g",soundtrack
+rolling thunder band,country
+rolling stones,rock
+rogue traders,newage
+roger whittaker,misc
+roger waters,rock
+roger sanchez,misc
+roger miller,country
+roedelius,newage
+rodriguez,rock
+rodrigo y gabriela,misc
+rodney crowell,country
+rodney atkins,rock
+rod stewart,rock
+rod piazza,blues
+rocket from the crypt,rock
+robin williamson,folk
+robin trower,rock
+roberto perera,jazz
+roberto daris,folk
+roberto carlos,misc
+roberta flack,blues
+robert plant,rock
+robert plant & alison krauss,country
+robert pirsig,misc
+robert palmer,rock
+robert palmer,misc
+robert miles,rock
+robert miles,newage
+robert miles,misc
+robert jordan,misc
+robert johnson,blues
+robert greenberg,misc
+robert cray,blues
+roberio e seus teclados,country
+robbie williams,rock
+robbie williams,misc
+robben ford,blues
+robben ford & the blue line,blues
+rob zombie,rock
+rob lansberg,rock
+rob inglis,soundtrack
+roald dahl,soundtrack
+riverside,rock
+rita reys,jazz
+rita lee,rock
+riley woodford-state of alaska,misc
+rihanna,soundtrack
+ricochet,country
+ricky van shelton,country
+ricky skaggs,country
+ricky martin,rock
+rickie lee jones,jazz
+rickie lee jones,classical
+rick wakeman,rock
+rick wakeman,misc
+rick trevino,country
+richie spice,reggae
+richie havens,rock
+richie beirach,misc
+richard wagner,classical
+richard tauber,misc
+richard stoltzman,classical
+richard p. feynman,soundtrack
+richard hell & the voidoids,newage
+richard evans,newage
+richard clayderman,soundtrack
+richard clayderman,misc
+richard clayderman,classical
+richard carlson,misc
+richard & linda thompson,folk
+ricardo requejo,classical
+ribspreader,misc
+rex gildo,misc
+rex fowler,misc
+reverend horton heat,rock
+revenge,rock
+res,rock
+replacements,rock
+reo speedwagon,rock
+reo speedealer,rock
+renaissance,rock
+remember shakti,jazz
+relaxation & meditation with music & nature,misc
+relax with....,newage
+relax with,blues
+reinhard mey,misc
+reinhard mey,folk
+regensburger domspatzen,folk
+rednex,country
+red sovine,country
+red priest,classical
+red hot chili peppers,rock
+red hot chili peppers,misc
+red garland trio,jazz
+red dragon,reggae
+recoil,rock
+reba mcentire,country
+real group,jazz
+reader's digest,classical
+raymond froggatt,country
+ray scott,country
+ray robinson,blues
+ray lynch,newage
+ray charles,rock
+ray charles,misc
+ray charles,jazz
+ray charles,country
+ray charles,blues
+ray anderson,jazz
+ravi shankar & yehudi menuhin,misc
+raul seixas,rock
+ratty,misc
+rata blanca,rock
+rasta,rock
+rascal flatts,country
+rapoon,misc
+raphael,newage
+randy crawford,misc
+ramsey lewis,jazz
+ramones,rock
+rammstein,rock
+rammstein,misc
+rame,rock
+ralph mctell,folk
+rakim,rock
+rainhard fendrich,misc
+rainer lange,misc
+rainbow,rock
+raffi,misc
+rafael riqueni,folk
+raf,country
+radiohead,rock
+radio shows,rock
+radio opole,folk
+radio 4,rock
+raconteurs,rock
+rachelle ferrell,jazz
+rachel portman,soundtrack
+r.e.m.,rock
+r. kelly,rock
+r. kelly,blues
+r. carlos nakai,newage
+quincy jones,jazz
+quiet riot,rock
+quicksilver messenger service,rock
+quella vecchia locanda,rock
+queens of the stone age,rock
+queen,rock
+queen,blues
+quatro ventos,folk
+qlair,blues
+pur,rock
+puke and snot,misc
+puccini,classical
+pt. hariprasad chaurasia,newage
+psa,misc
+protest the hero,newage
+propagandhi,newage
+prong,rock
+prokofiev,classical
+projekct two,rock
+project pitchfork,misc
+professor longhair,jazz
+prodigy,soundtrack
+prodigy,rock
+prodigy,newage
+prodigy,misc
+princess princess,blues
+prince,rock
+prince,misc
+primus,rock
+primordial,rock
+primo ottobre,misc
+primal scream,rock
+primal scream,misc
+pretty things,rock
+presidents of the united states of america,rock
+present,misc
+prazak quartet,classical
+powerman 5000,rock
+portishead,misc
+porcupine tree,rock
+pop'n music,soundtrack
+popeda,rock
+popa chubby,blues
+polysics,blues
+police,rock
+poi dog pondering,folk
+pogues,rock
+pogues,folk
+po' girl,folk
+platters,rock
+plastikman,misc
+placebo,rock
+placebo,newage
+pizzicato v,blues
+pixinguinha,misc
+pipe major donald macleod m.b.e.,folk
+piotr-illich tchaikowsky,classical
+piotr szczepanik,folk
+pink,rock
+pink floyd,soundtrack
+pink floyd,rock
+pink floyd,misc
+pink floyd,jazz
+pink floyd,folk
+pimsleur,soundtrack
+pimsleur,rock
+pimsleur,newage
+pimsleur,misc
+pimsleur,jazz
+pimsleur,classical
+pimsleur,blues
+pimpinela,misc
+piers anthony,misc
+pierre monteux - london symphony orchestra,classical
+piano magic,misc
+phyllis hyman,jazz
+phish,rock
+philip glass,classical
+philharmonic orchestra,folk
+phil woods,jazz
+phil driscoll,jazz
+phil collins,soundtrack
+phil collins,rock
+phil collins,misc
+pharoah sanders,jazz
+phantoms,blues
+petrina ota,rock
+petra,folk
+petr muk,misc
+peter tschaikowsky,classical
+peter tosh,reggae
+peter tchaikowsky,classical
+peter seiffert,classical
+peter ilyich tchaikovsky,classical
+peter hammill,rock
+peter green,rock
+peter gabriel,rock
+peter frampton,rock
+peter delano,jazz
+peter cetera,rock
+pete townshend,rock
+pete seeger,folk
+pete namlook,misc
+pete namlook & wolfram spyra,jazz
+pete fountain,jazz
+pet shop boys,rock
+pet shop boys,misc
+pere ubu,rock
+percy hill,rock
+pepsi more music,newage
+pepper,reggae
+pepe aguilar,folk
+pentangle,folk
+penguin cafe orchestra,newage
+peggy lee,jazz
+pedro infante,misc
+pedro infante,folk
+pearl jam,rock
+pearl jam,blues
+peabo bryson,misc
+pavlo,jazz
+pavarotti & friends,classical
+paulinho da viola,misc
+paula lima,misc
+paul young,rock
+paul winter,newage
+paul weller,rock
+paul vens,newage
+paul van dyk,newage
+paul van dyk,misc
+paul van arsdale,folk
+paul stewart & chris riddell,misc
+paul ruskay,soundtrack
+paul revere and the raiders,misc
+paul potts,classical
+paul oakenfold,misc
+paul mccartney,rock
+paul mccartney,classical
+paul mccartney & wings,rock
+paul mccartney & wings,blues
+paul kuhn,jazz
+paul kelly,folk
+paul hardcastle,jazz
+paul desmond,jazz
+paul bley,jazz
+paul avgerinos,newage
+paul anka,misc
+patti smith,rock
+patti page,country
+patsy cline,country
+patrick robinson,misc
+patrick o'hearn,newage
+patrick o'brian,misc
+patrick n. allitt,misc
+patrick bruel,soundtrack
+patricia barber,jazz
+patrice,reggae
+patra,reggae
+patchwork,misc
+pat metheny,jazz
+pat metheny,blues
+pat metheny group,jazz
+pat martino,jazz
+pat dailey,folk
+pat coil,jazz
+pat benatar,rock
+passport,jazz
+partridge family,rock
+parliament,rock
+parijat,newage
+pantera,rock
+pankow,rock
+pankaj udhas,misc
+pamelah,newage
+painkiller,misc
+pagan's mind,rock
+paco de lucia,folk
+paco de lucia & sextet,classical
+p.o. box,reggae
+p.d.q. bach,misc
+ozzy osbourne,rock
+ozzy osbourne,blues
+ozzy osborne,rock
+oxbow,rock
+oxbow,misc
+outskirts of infinity,rock
+outlaws,rock
+outfield,rock
+ottmar liebert & luna negra,newage
+otep,rock
+oslo gospel choir,folk
+oscar peterson,jazz
+orson scott card,soundtrack
+ornette coleman,jazz
+ornette coleman double quartet,misc
+orishas,misc
+original: misir danslan/ edited: nicholas kruger,rock
+original river road boys,country
+oregon,jazz
+orbital,misc
+orb,rock
+orb,newage
+orb,misc
+orange range,misc
+opgezwolle,misc
+opeth,rock
+operacion triufo,soundtrack
+oomph!,folk
+ooioo,misc
+one minute silence,rock
+on wings of song & robert grass,newage
+on wings of song & robert gass,newage
+ombra,rock
+olsen brothers,folk
+olivia newton-john,country
+oliver shanti & friends,newage
+oliver shanti & friends,blues
+oliver pocher,misc
+ole ivars,folk
+ole gabrielsen,misc
+old time radio,misc
+o'jays,rock
+ogie alcasid,blues
+ofra haza,folk
+offspring,rock
+offspring,newage
+off,misc
+odious sanction,misc
+odette ernest & jaime dias,classical
+odean pope,jazz
+oceansize,jazz
+occultus-esgaroth,rock
+obituary,rock
+oasis,rock
+oak ridge boys,country
+o.t. quartet,rock
+nycticorax,misc
+nusrat fateh ali khan,misc
+nusrat fateh ali khan,folk
+nuclear assault,rock
+nova era,blues
+northern lights,jazz
+norman brown,jazz
+norah jones,jazz
+norah jones,blues
+nomads,newage
+nofx,rock
+noam chomsky,soundtrack
+no use for a name,rock
+no doubt,rock
+no doubt,blues
+no angels,misc
+nitzer ebb,rock
+nitty gritty dirt band,country
+nirvana,rock
+nirvana,newage
+nino rota,soundtrack
+nino bravo,misc
+nine inch nails,soundtrack
+nine inch nails,rock
+nine inch nails,misc
+nina simone,jazz
+nina simone,blues
+nina badric,soundtrack
+nikolaus harnoncourt,classical
+nikolai gromin,jazz
+nightwish,rock
+nightmares on wax,misc
+nightcrawlers,misc
+niels van gogh,misc
+nicole,newage
+nicky hopkins,rock
+nick cave and the bad seeds,rock
+nick cave and the bad seeds,blues
+nick cave & the bad seeds,rock
+nick cave & shane macgowan,blues
+nicholas markos,rock
+nhu quynh & manh dinh & lam thuy van,folk
+new york trio,blues
+new york philharmonic - leonard bernstein,folk
+new strychnines,misc
+new riders of the purple sage,rock
+new order,rock
+new king james,soundtrack
+new found glory,rock
+new bomb turks,rock
+nevermore,rock
+nevergreen,rock
+neurotic,newage
+neu!,rock
+nerf herder,rock
+neneh cherry,reggae
+nelson demille,misc
+nelly furtado,newage
+nelly furtado,folk
+neil young,rock
+neil young & the bluenotes,rock
+neil young & crazy horse,rock
+neil sedaka,rock
+neil diamond,rock
+negu gorriak,rock
+necks,jazz
+nazareth,rock
+nawang khechog,newage
+nawang khechog,misc
+nato,rock
+national park series,newage
+natalie dessay,classical
+natalie cole,jazz
+nat king cole,misc
+nat king cole,jazz
+nass el ghiwane,misc
+nas,misc
+narnia,rock
+nanjing dynasty orchestra,newage
+nanci griffith,folk
+namco,soundtrack
+n.w.a.,misc
+myron walden,jazz
+mylon & broken heart,rock
+myheadswims,blues
+mya,blues
+my morning jacket,newage
+my dying bride,rock
+my chemical romance,rock
+music maestro country club pack 1 (disc 4 of 5 ) (various),country
+murray perahia,classical
+murray gold,soundtrack
+murderdolls,rock
+municipal waste,rock
+munich machine,rock
+mundo livre s/a,reggae
+mukeka di rato,rock
+muddy waters,blues
+mstislav rostropovich,classical
+mr.children,rock
+mr. big,rock
+mr quimby's beard,rock
+mr blobby,misc
+moziklip,soundtrack
+mozdzer danielsson fresco,jazz
+mozart,classical
+mozaic,misc
+move,rock
+mott the hoople,rock
+motley crue,jazz
+mother love bone,rock
+mother goose,misc
+morton guuld,classical
+morton feldman,classical
+mortiis,newage
+mortiis,misc
+mortification,rock
+morris on,folk
+moreira da silva,misc
+morcheeba,misc
+morcheeba,jazz
+moonsorrow,misc
+moody blues,rock
+monty python,misc
+monty norman,soundtrack
+montgomery smith,misc
+monster magnet,rock
+monroes,misc
+monkees,rock
+moneen,rock
+momus,blues
+moloko,rock
+mohammed rafi,misc
+mogwai,rock
+mogwai,misc
+moe.,rock
+modern talking,rock
+mocedades,folk
+moby,rock
+moby,newage
+moby,misc
+moby,blues
+mlimani park orchestra,misc
+miten with deva premal,newage
+mitch albom,soundtrack
+mis-teeq,rock
+missy elliott,rock
+missy elliott,misc
+mississippi fred mcdowell,blues
+missing persons,rock
+misia,rock
+misfits,rock
+miranda lambert,country
+mirah,blues
+mira reggae,reggae
+minnie pearl,misc
+minna raskinen,classical
+ministry,rock
+ministry of sound,soundtrack
+ministry of sound,newage
+mingus big band,jazz
+milton nascimento,misc
+milt jackson,jazz
+milt jackson,blues
+mills brothers,misc
+milli vanilli,reggae
+milladoiro,folk
+miliki,misc
+miles davis,jazz
+miles davis,blues
+miles davis quintet,jazz
+mildred bailey,jazz
+mikel erentxun,blues
+mike stern,jazz
+mike rowland,newage
+mike oldfield,rock
+mike oldfield,newage
+mike oldfield,misc
+mike oldfield,blues
+mikael simpson,newage
+mighty diamonds,reggae
+midori,blues
+midnight oil,rock
+midge ure & ultravox,blues
+microsoft,soundtrack
+michelle wright,country
+michel thomas,misc
+michel sardou,folk
+michel petrucciani,jazz
+michel legrand,soundtrack
+michel legrand,jazz
+michel chapuis,classical
+michal urbaniak,jazz
+michael thomas babin jr.,folk
+michael stearns,newage
+michael schenker group,rock
+michael rabin,classical
+michael katon,blues
+michael junior,classical
+michael jackson,rock
+michael jackson,misc
+michael harner,misc
+michael franks,jazz
+michael dickes,folk
+michael burks,blues
+michael buble,jazz
+michael brook,newage
+michael bolton,blues
+michael ball,misc
+mgmt,rock
+mezzoforte,jazz
+metis,reggae
+metallica,rock
+metallica,misc
+metallica,jazz
+metallica,blues
+meshuggah,rock
+merlin's magic,newage
+merlin's magic,misc
+merle haggard,country
+mercedes sosa,folk
+mendelssohn,classical
+mendelssohn & bruch,classical
+melody gardot,jazz
+mellow candle,folk
+melissa etheridge,rock
+megadeth,rock
+medwyn goodall,newage
+medicine drum,misc
+meat puppets,soundtrack
+meat loaf,rock
+meat loaf,misc
+me first and the gimme gimmes,rock
+mcguire sisters,rock
+mccoy tyner,jazz
+mc solaar,misc
+mc ren,misc
+mc einar,misc
+mc 900 ft jesus,rock
+m-base collective,jazz
+maysa,misc
+maynards,rock
+maynard ferguson,jazz
+mayle peter,misc
+maxime le forestier,folk
+maxim vengerov,classical
+max steiner,soundtrack
+max romeo & the upsetters,reggae
+max roach,jazz
+max raabe,misc
+max mix,misc
+max middleton,blues
+max bruch,misc
+mawkin,folk
+mavericks,country
+mauro picotto,rock
+maurice ravel,classical
+maurice jarre,soundtrack
+maurice andre,classical
+matisyahu,reggae
+mathias grassow,newage
+matelo ferret,blues
+master wel,misc
+massive attack,soundtrack
+massive attack,misc
+mary j. blige,misc
+mary j. blige,blues
+mary chapin carpenter,country
+marxman,reggae
+marvin gaye,rock
+marvin gaye,blues
+marty robbins,country
+marty friedman,rock
+marty ehrlich,jazz
+martina mcbride,country
+martin simpson,folk
+martin pearson,folk
+martin best ensemble,classical
+marshall tucker band,country
+mars volta,rock
+mars lasar,newage
+mars hill audio journal,misc
+marlene jobert,misc
+marla glen,blues
+mark wills,country
+mark murphy,jazz
+mark knopfler,soundtrack
+mark knopfler,rock
+mark heard,country
+mark beswick and the power praise worship band,misc
+mariza,folk
+marion,misc
+mario puzo,misc
+mario lanza,classical
+marilyn manson,rock
+marillion,rock
+marianne faithfull,rock
+mariah carey,rock
+mariah carey,misc
+maria callas,classical
+marea,rock
+marcus miller,jazz
+marcos witt,folk
+marcos vidal,soundtrack
+marcello brayner,folk
+marcella detroit,reggae
+marc bolan & t. rex,rock
+marc antoine,jazz
+marc anthony,soundtrack
+marc anthony,misc
+maranatha! music,misc
+manuel barrueco,classical
+manu chao,newage
+mantovani orchestra,classical
+mansun,reggae
+manowar,rock
+manotvani orchestra,misc
+mano negra,rock
+mannheim steamroller,newage
+manic street preachers,rock
+manheim steamroller,classical
+manhattan transfer,misc
+manhattan transfer,jazz
+manfred mann's earth band,rock
+mandy patinkin,misc
+mandingo,folk
+mance lipscomb,blues
+man,rock
+mamma mia!,soundtrack
+mamas & the papas,rock
+malleus,soundtrack
+malibu storm,country
+malando,folk
+mal waldron,jazz
+mal waldron,blues
+makyo,newage
+mahogany rush,rock
+mahavishnu orchestra,jazz
+magnus uggla,misc
+magnapop,rock
+magma,rock
+magic pie,rock
+magic dirt,rock
+madrugada,newage
+madonna,soundtrack
+madonna,rock
+madonna,misc
+madness,reggae
+macy gray,misc
+macy gray,blues
+macka b,reggae
+machine head,rock
+maceo parker,jazz
+macdonalds,rock
+m.o.s.r.i. of ihsan akyuz,misc
+m clan,blues
+lynyrd skynyrd,rock
+lyle lovett,country
+lycia,newage
+luz casal,country
+luther allison,blues
+lustmord,misc
+lusia,newage
+luscious jackson,rock
+lurker of chalice,rock
+luna sea,rock
+luke slater,misc
+luis miguel,misc
+luigi tagliavini - liuwe tamminga,classical
+ludwig van beethoven,classical
+ludmila ferber,folk
+ludmila ferber,classical
+ludmila feber,soundtrack
+lucy kaplansky,rock
+lucio battisti,misc
+lucio battisti,folk
+lucio battisti,country
+lucinda williams,folk
+lucinda williams,country
+lucille,rock
+lucid fall,soundtrack
+luciano,reggae
+luciano pigliaru,folk
+luciano pavarotti,classical
+lucero,misc
+lu,rock
+lovin' spoonful,rock
+lovemongers,rock
+love like blood,misc
+love inc,newage
+louise attaque,rock
+louis armstrong,jazz
+louis armstrong,blues
+lou reed,rock
+lotus,rock
+los mejores grupos con sus grandes exitos,soundtrack
+los lobos,rock
+los indios tabajaras,classical
+los goyos,reggae
+los fabulosos cadillacs,rock
+los chichos,folk
+lorrie morgan,country
+loretta lynn,country
+loreena mckennitt,misc
+loreena mckennitt,folk
+loona,misc
+lonnie liston smith,jazz
+longview,folk
+lonestar,country
+london symphony orchestra,misc
+london symphony orchestra,classical
+london festival orchestra,classical
+lockup,rock
+llewellyn & juliana,blues
+liza minelli,jazz
+living language,misc
+living colour,rock
+livin' joy,misc
+live,rock
+little richard,rock
+little joe washington,blues
+little feat,rock
+little feat,blues
+lita ford,rock
+lisa fischer,misc
+lisa ekdahl,jazz
+lionrock,misc
+lionel richie,rock
+lionel hampton,jazz
+lionel hampton,blues
+linton kwesi johnson,reggae
+linkin park,rock
+linkin park,newage
+linda ronstadt,rock
+linda ronstadt,country
+linda love lace,misc
+lin fu chan,newage
+limp bizkit,rock
+limbus 4,misc
+lil' ed and the blues imperials,blues
+lighthouse family,jazz
+ligabue,rock
+lifescapes,newage
+libertines,rock
+liam lynch,rock
+lester young,jazz
+lester levenson,blues
+lester bowie brass fantasy,jazz
+less than jake,rock
+leslie howard,classical
+les thugs,rock
+les nubians,jazz
+les luthiers,misc
+leopold stokowski,classical
+leopold stokowski and the philadelphia orchestra,soundtrack
+leonard cohen,rock
+leonard cohen,folk
+leonard cohen,blues
+leonard berstein,classical
+leo kottke,folk
+lenny kravitz,rock
+lenny breau with dave young,jazz
+lena philipsson,misc
+lena horne,jazz
+lena fiagbe,newage
+lemonheads,rock
+leftfield,rock
+leftfield & lydon,newage
+lefay,rock
+lee ritenour,jazz
+lee morgan,jazz
+lee morgan,blues
+lee konitz,jazz
+lee greenwood,country
+lee ann womack,country
+led zeppelin,soundtrack
+led zeppelin,rock
+led zeppelin,misc
+led kaapana & the original ikona,country
+leann rimes,country
+leandro & leonardo,country
+leadbelly,blues
+le orme,rock
+lazaro,folk
+lazar berman,classical
+lawrence,classical
+lavinia jones,misc
+laurindo almeida,jazz
+laurie lewis,folk
+laurie anderson,soundtrack
+laurent garnier,rock
+laurent garnier,misc
+laura pausini,rock
+laura fygi,blues
+latin fever,folk
+laserdance,misc
+larry's blues band,blues
+larry the cable guy,misc
+larry garner,blues
+larry carlton,jazz
+larousse,misc
+l'arc-en-ciel,rock
+l'arc-en-ciel,blues
+l'arc~en~ciel,rock
+lara fabian,blues
+lapset laulavat,classical
+lana lane,rock
+lamb of god,jazz
+lake of tears,misc
+lagwagon,rock
+lafee,rock
+ladysmith black mambazo,misc
+ladysmith black mambazo,folk
+lady gaga,newage
+lacuna coil,rock
+labradford,rock
+la oreja de van gogh,rock
+la oreja de van gogh,misc
+la fuga,rock
+la caja de pandora,misc
+la bruja gata,folk
+la bouche,misc
+la bottine souriante,misc
+l.s.g.,newage
+kylie minogue,misc
+kyle eastwood,jazz
+kula shaker,rock
+k's choice,rock
+krzysztof komeda,soundtrack
+kruder & dorfmeister,rock
+kronus quartet,classical
+kronos quartet,classical
+kris kross,rock
+kris kristofferson,country
+kraftwerk,rock
+kraftwerk,misc
+koto,blues
+korn,rock
+korn,misc
+koop,jazz
+konami,soundtrack
+klezmer conservatory band,folk
+kleiton & kleidir,folk
+klaus schulze,newage
+klaus  schulze & rainer bloss,newage
+klamydia,rock
+kix,rock
+kitty wells,country
+kitaro,newage
+kiss,rock
+kiri te kanawa,folk
+kinks,rock
+king's singers,misc
+kingdom come,rock
+king tubby,reggae
+king diamond,rock
+king crimson,rock
+kimbo educational,misc
+kim mitchell,rock
+kim menzer & lars trier,newage
+kim larsen & gasolin',rock
+kim kashkashian,classical
+kim jong hwan,blues
+killswitch engage,jazz
+killing joke,rock
+killerpilze,rock
+kieran hebden and steve reid,jazz
+kid rock,rock
+khanh ha,rock
+key,soundtrack
+kevin prosch,rock
+kevin mahogany,jazz
+kevin johansen,folk
+kepa junkera,folk
+kenny werner,blues
+kenny rogers,country
+kenny kirkland,jazz
+kenny g,jazz
+kenny g,blues
+kenny drew,jazz
+kenny dorham,jazz
+kenny chesney,country
+kenny burrell,jazz
+kenneth oppel,misc
+kenneth copeland,misc
+kenji kawai,soundtrack
+kenickie,rock
+ken peplowski,blues
+ken nordine,jazz
+ken davis,newage
+kelly family,folk
+kelly clarkson,classical
+kelly bailey,soundtrack
+keith urban,country
+keith jarrett,jazz
+keith jarrett,classical
+keith emerson and the nice,rock
+keiko matsui,jazz
+kebnekajse,folk
+keak da sneak,misc
+kazumi watanabe,jazz
+kazuhito yamashita,classical
+kaustubh.com,soundtrack
+katja ebstein,folk
+katie melua,jazz
+katie melua,classical
+kate winslet,soundtrack
+kate bush,newage
+katatonia,rock
+karunesh,newage
+karl jenkins,newage
+karl jenkins,misc
+karaoke,misc
+karaoke party,country
+karan casey,folk
+kaori 2 luv,soundtrack
+kanye west,misc
+kansas,rock
+kandis,folk
+kana,reggae
+kaleidoscope,folk
+kalabi,newage
+k3,misc
+j-walk,blues
+jurassic 5,misc
+juno reactor,rock
+junipher greene,rock
+junior,folk
+jungle brothers,rock
+june tabor,folk
+june christy,jazz
+julius katchen,misc
+julio sosa,blues
+julio jaramillo,folk
+juliana hatfield three,misc
+julian lloyd webber,classical
+julian bream,classical
+julian bream & john williams,classical
+juli,rock
+julee cruise,newage
+jujja und tomas wieslander,misc
+juicy lucy,rock
+judy mahoney,misc
+judy collins,folk
+judds,country
+judas priest,rock
+juan luis guerra,folk
+juan gabriel,misc
+joyce cooling,jazz
+joy electric,rock
+joy division,rock
+journey,rock
+joss stone,jazz
+joshua rifkin,classical
+joshua redman,jazz
+josh white,blues
+josh sneed,misc
+josh groban,classical
+josephine kronfli & pit budde,folk
+joseph spence,folk
+joseph seal,rock
+joseph haydn,classical
+jose alberto "el canario",misc
+jorge ben jor,classical
+jools holland & his rhythm & blues orchestra,country
+jools holland & his rhythm & blues orchestra,blues
+jonny lang,blues
+jonn serrie,newage
+joni mitchell,folk
+jones classic country,country
+jonathan jones,blues
+jonathan goldman,newage
+jonathan cain,newage
+jonathan butler,rock
+jonah jones,jazz
+jon lord,classical
+jon krakauer,misc
+jon hassell,newage
+jon faddis,jazz
+jon anderson,rock
+jon anderson,newage
+jon and vangelis,newage
+jokke & valentinerne med tourettes,rock
+johnny winter,blues
+johnny tillotson,country
+johnny thunders,rock
+johnny shines,blues
+johnny rivers,rock
+johnny o'keefe,rock
+johnny mathis,misc
+johnny hoes,misc
+johnny hodges,jazz
+johnny cash,country
+john williamson,country
+john williams,soundtrack
+john williams,classical
+john scofield,jazz
+john scofield & pat metheny,jazz
+john prine,country
+john pizzarelli,jazz
+john pinette,misc
+john patitucci,jazz
+john mellencamp,blues
+john mcvie's "gotta band" with lola thomas,soundtrack
+john mclaughlin,jazz
+john mayall,blues
+john mayall and the bluesbreakers,blues
+john mayall & friends,blues
+john lescroart,soundtrack
+john lennon,rock
+john lee hooker,blues
+john klemmer,blues
+john huling,misc
+john holt,reggae
+john heberman,classical
+john fogerty,rock
+john farnham,newage
+john erickson,misc
+john denver,folk
+john denver,country
+john denver & the muppets,folk
+john cougar,folk
+john coltrane,jazz
+john coltrane,blues
+john coltrane quartet,jazz
+john cage,classical
+john butler trio,rock
+john barry,soundtrack
+john anderson,country
+johannes heil,misc
+johannes brahms,classical
+johann strauss,classical
+johann strauss jr.,classical
+johann sebastian bach,classical
+johann bach,classical
+johan verminnen,folk
+joe satriani,rock
+joe sample and the soul committee,jazz
+joe sample & lalah hathaway,jazz
+joe lovano,jazz
+joe lovano nonet,jazz
+joe jackson,rock
+joe jackson,misc
+joe jackson,jazz
+joe jackson,classical
+joe hunter/dallas coffey,jazz
+joe henderson,jazz
+joe ely,country
+joe diffie,country
+joe cocker,rock
+joe cocker,blues
+joe bonamassa,blues
+jody victor,misc
+jocelyn pook,newage
+joana,classical
+joan osborne,blues
+joan manuel serrat,misc
+joan jett & the blackhearts,rock
+joan baez,folk
+j-kwon,soundtrack
+jimmy sturr,folk
+jimmy smith,jazz
+jimmy rushing,jazz
+jimmy reed,blues
+jimmy page,rock
+jimmy page & robert plant,rock
+jimmy lafave,rock
+jimmy cliff,reggae
+jimmy buffett,rock
+jimmy buffett,country
+jimi hendrix,rock
+jimi hendrix,blues
+jimi hendrix experience,rock
+jim weiss,soundtrack
+jim reeves,country
+jim malcolm,folk
+jim hendricks,folk
+jim hall,jazz
+jim hall & pat metheny,jazz
+jim croce,folk
+jewel,misc
+jewel,folk
+jethro tull,rock
+jesus lizard,rock
+jesus and mary chain,rock
+jessica simpson,country
+jessi colter,country
+jesse cook,newage
+jerry lee lewis,rock
+jerry lee lewis,country
+jerry jeff walker,country
+jerry goldsmith,soundtrack
+jerry garcia band,rock
+jerry galante,reggae
+jerry fielding,soundtrack
+jerry adriani,folk
+jeremy irons & gong li,newage
+jennifer lopez,rock
+jehovah's witnesses,misc
+jehan,misc
+jefferson airplane,rock
+jeff wayne,soundtrack
+jeff reynolds,blues
+jeff mills,rock
+jeff mangum,folk
+jeff lynne,rock
+jeff healey band,rock
+jeff golub,jazz
+jeff buckley,rock
+jeff beck,rock
+jeff beck,blues
+jeehun hwang,soundtrack
+jeanne baxtresser,classical
+jean-michel jarre,misc
+jean-luc ponty,jazz
+jean naty-boyer,misc
+jean michel jarre,newage
+jean michel jarre,misc
+jazzkantine,jazz
+jazz legends,jazz
+jay-z,misc
+jayhawks,country
+jay hickman,country
+jason miles,jazz
+jason donovan,rock
+jascha heifetz,classical
+jars of clay,misc
+jantje smit,folk
+janis siegel and fred hersch,jazz
+janis joplin,rock
+janis joplin,country
+janet jackson,rock
+jane's addiction,rock
+jane monheit,jazz
+jane birkin,rock
+jane birkin,folk
+jane birkin,blues
+jane austen,misc
+jan & dean,rock
+jamiroquai,rock
+jamiroquai,jazz
+jamily,folk
+jamie o'neal,country
+jami sieber,classical
+jamey aebersold,jazz
+james taylor,rock
+james taylor,folk
+james rollins,misc
+james patterson,misc
+james miner,classical
+james horner,soundtrack
+james gang,rock
+james galway,classical
+james earl jones,misc
+james brown,rock
+james brown,misc
+james brown,blues
+james blunt,newage
+james blunt,blues
+jam,rock
+jah wobble's invaders of the heart,rock
+jagatara,rock
+jadakiss,misc
+jacula,rock
+jacques dutronc,misc
+jaco pastorius,jazz
+jackie mclean,jazz
+jack kerouac,misc
+jack johnson,rock
+jack ingram,country
+ja rule,rock
+ja rule,misc
+j.s. bach,classical
+j.r.r. tolkien,misc
+j.k. rowling,soundtrack
+j. k. rowling (read by jim dale),misc
+ivete sangalo,rock
+ivete sangalo,reggae
+ivana santilli,newage
+itzhak perlman,classical
+itzhak perlman & john williams,soundtrack
+israel vibration,reggae
+isgaard,newage
+isabel pantoja,folk
+isaac hayes,misc
+iron maiden,rock
+iron maiden,jazz
+iron & wine,rock
+irma thomas,jazz
+iq,rock
+inxs,rock
+inti cesar malasquez and philip martin,newage
+intelligentsia,rock
+inner circle,reggae
+in-grid,rock
+ingenting,rock
+infernal,newage
+infectious grooves,rock
+infected mushroom,misc
+inessa galante,classical
+indochine,rock
+indigo girls,folk
+indiandigitalaudio.com,soundtrack
+india.arie,misc
+india,newage
+india,misc
+incubus,rock
+incognito,jazz
+in flames,jazz
+in extremo,rock
+implant,misc
+immortals,misc
+immortal,rock
+imelda may,blues
+illinois jacquet,jazz
+illegal 2001,misc
+il divo,classical
+ike quebec,jazz
+igor stravinsky - columbia symphony orchestra,misc
+igor stravinsky - columbia chamber ensemble - columbia symphony orchestra,misc
+iggy pop,rock
+ice cube,misc
+ibis,rock
+ian tyson,country
+ian & sylvia,folk
+i: wound,newage
+hypnoz,misc
+hybrid,misc
+huun-huur-tu,folk
+humble pie,rock
+howlin' wolf,blues
+howard stern,soundtrack
+howard skempton,classical
+howard shore,soundtrack
+howard jones,rock
+house of pain,misc
+hot tuna,blues
+horna,misc
+horace tapscott,jazz
+horace silver,jazz
+hootie & the blowfish,rock
+homer,misc
+homepage magazin,soundtrack
+holy bible,misc
+holly cole trio,jazz
+hollies,rock
+hollenthon,rock
+holiday magic,folk
+hole,reggae
+hobart smith,folk
+hives,rock
+hives,newage
+hiroko kokubu,jazz
+him,newage
+hillsong,misc
+hillsong worship series,misc
+hilliard ensemble,classical
+hide,rock
+hezekiah walker & the love fellowship crusade chior,folk
+hexstatic,newage
+hermes house band,rock
+herman's hermits,rock
+herbie mann,jazz
+herbie hancock,jazz
+herbie hancock & chick corea,jazz
+herbert knebels affentheater,misc
+herbert kegel,classical
+herbert joos & frank kuruc,jazz
+herb alpert,misc
+herb alpert,jazz
+herb alpert & the tijuana brass,jazz
+henryk gorecki,classical
+henry thereadgill,jazz
+henry purcell,classical
+henry mancini,soundtrack
+henry mancini,jazz
+henrik ibsen,misc
+hemphills,misc
+helmut lotti,classical
+helmet,rock
+helloween,rock
+helloween,jazz
+hellacopters,rock
+helene fischer,classical
+helen doron,misc
+helemaal hollands,folk
+heldon,rock
+heintje,misc
+heidi lowy,classical
+heidi hauge,country
+hed kandi,newage
+heather alexander,newage
+heart,rock
+heads or tales,rock
+he zhan-hao,classical
+hayley westenra,classical
+haydn,classical
+hawkwind,rock
+hatfield and the north,rock
+hasse andersson,country
+harvey reid,folk
+harry gregson-williams,soundtrack
+harry chapin,folk
+harold g. taylor,misc
+hard spirit,rock
+happy mondays,folk
+hanson brothers,rock
+hans zimmer,soundtrack
+hans zimmer & lisa gerrard,soundtrack
+hans fagius,classical
+hans de back,newage
+hank williams,country
+hank williams iii,country
+hank thompson,country
+hank snow,country
+hank mobley,jazz
+handel,classical
+hammerfall,rock
+hail,rock
+hafler trio,misc
+haddaway,misc
+h2o,rock
+h.c. andersen,soundtrack
+gwendal,folk
+gusto,rock
+gustav mahler,classical
+gustav leonhardt,classical
+guru guru,rock
+guns n' roses,rock
+guess who,rock
+grupo fundod e quintal,rock
+grupo folclorico val d'echo,folk
+grover washington jr,jazz
+groundation,reggae
+groove armada,jazz
+grieg,classical
+grid,rock
+gretchen wilson,country
+greis,rock
+gregory isaacs,reggae
+gregorian,soundtrack
+gregorian,newage
+gregorian,classical
+gregorian chants,folk
+greg osby,jazz
+greenland whalefishers,folk
+green day,rock
+green carnation,rock
+great white,rock
+grave digger,rock
+graue zellen,newage
+grateful dead,rock
+grateful dead,reggae
+grateful dead,folk
+grant green,jazz
+grant green,blues
+grant & forsyth,country
+grand funk railroad,rock
+grafitti,jazz
+grafiti,misc
+grachan moncur iii,blues
+grace potter and the nocturnals,rock
+grace jones,rock
+goya dress,rock
+gov't mule,rock
+gov't mule,blues
+gotan project,rock
+gotan project,misc
+gospellers,blues
+gorillaz,rock
+gorillaz,misc
+gorilla biscuits,rock
+gopal shankar misra,misc
+gontiti,newage
+gomer edwin evans,newage
+gomer edwin evans,misc
+goma,newage
+golden earring,rock
+golden bough,folk
+gold city,misc
+godspeed you! black emperor,misc
+goce arnaudov,folk
+gloria estefan,misc
+globe,rock
+glenn west,misc
+glenn miller,misc
+glenn miller,jazz
+glenn miller orchestra,jazz
+glenn hughes,rock
+glenn gould,classical
+glay,newage
+gladiators,reggae
+glad,misc
+giuseppe verdi,classical
+gipsy kings,misc
+gipsy kings,folk
+giovanni venosta,soundtrack
+giorgos "psycho doctor" kandarakis,jazz
+giora feidman,jazz
+gino marinello,folk
+ginger baker,misc
+gina g,misc
+gianni morandi,misc
+gianna nannini,rock
+gianmaria testa,folk
+giaches de wert,classical
+ghostcauldron,misc
+ghost of a thousand,rock
+ghiarta,newage
+gerry rafferty,rock
+gerry mulligan quartet,jazz
+gerhard staguhn,misc
+gerard willems,classical
+gerald n lund,misc
+georges bizet,classical
+george winston,newage
+george winston,classical
+george thorogood & the destroyers,blues
+george strait,country
+george nooks,reggae
+george michael,rock
+george michael,misc
+george michael,blues
+george martin,soundtrack
+george jones,country
+george harrison,rock
+george gershwin,jazz
+george gershwin,classical
+george fenton,soundtrack
+george benson,jazz
+georg friedrich haendel,classical
+geobreeders,misc
+gentleman,reggae
+genital grinder,misc
+genesis,rock
+general saint feat don campbell,misc
+gene watson,country
+gene loves jezebel,rock
+gene autry,country
+geinoh yamashirogumi,soundtrack
+geburtstag,misc
+gato barbieri,jazz
+gary moore,rock
+gary moore,blues
+gary hoey,soundtrack
+gary glitter,rock
+gary chapman,rock
+gary burton,jazz
+gary allan,country
+garth brooks,country
+garth brooks,blues
+garth brooks as chris gaines,country
+gareth green,classical
+garbage,misc
+ganja beats,misc
+gang starr,rock
+gamma ray,rock
+galactic,jazz
+gala,newage
+gal costa,folk
+gal costa,blues
+gaither vocal band,misc
+gaither gospel series,soundtrack
+gabrielle roth and the mirrors,newage
+g. carmignola & sonatori de la gioiosa marca,classical
+fusioon,newage
+fureys & davey arthur,folk
+furacao 2000 twister 2006,folk
+funkdoobiest,rock
+funeris nocturnum,jazz
+fulanito,blues
+fsb,rock
+front line assembly,rock
+front 242,misc
+fripp & eno,newage
+friedemann,newage
+free,rock
+frederic chopin,classical
+freddie hubbard,jazz
+fred pellerin,folk
+fred everything,rock
+fred eaglesmith,country
+freak power,misc
+franz schubert,classical
+franz liszt,classical
+frantisek nedved,folk
+frans bauer,folk
+frankie hi-nrg mc,rock
+frank zappa,rock
+frank sinatra,misc
+frank sinatra,jazz
+frank sinatra,blues
+frank mccomb,jazz
+frank marino & mahogany rush,rock
+frank goosen,misc
+frank & mirella,folk
+franco battiato,rock
+franck michael,soundtrack
+francis lai,soundtrack
+fourplay,jazz
+four80east,jazz
+four tet,jazz
+four freshmen,jazz
+forbidden,rock
+foghat,rock
+focus,rock
+focus on the family radio theatre,misc
+fm static,misc
+flower kings,rock
+florida boys,folk
+flora purim,blues
+fleetwood mac,rock
+fleetwood mac,blues
+fito&fitipaldis,misc
+fishbone,rock
+firesign theatre,misc
+fire bomber,soundtrack
+fire bomber,rock
+fiorella mannoia,folk
+fiona,rock
+filter,rock
+fiddler's green,folk
+fevers,rock
+fernando santos e juliana alves,folk
+fernando cabrera,rock
+fernanda brum,folk
+fenton robinson,blues
+femi kuti,misc
+felt,newage
+felix mendelssohn,classical
+fear factory,rock
+fausto papetti,misc
+fausto papetti,jazz
+faust,rock
+fats waller,blues
+fats domino,rock
+fats domino,blues
+fates warning,rock
+fastball,rock
+faraway places,folk
+family,rock
+fall,rock
+faithless,misc
+faith no more,rock
+faith hill,country
+fairport convention,rock
+fairport convention,folk
+fabulous thunderbirds,rock
+f:,classical
+ezio,misc
+eye to eye,rock
+extreme,rock
+express publishing,misc
+exponents,rock
+explorers club,rock
+exploited,rock
+eve's plum,rock
+everything but the girl,rock
+everything but the girl,misc
+every little thing,rock
+every little thing,newage
+everly brothers,rock
+even song,folk
+eva cassidy,blues
+eurythmics,rock
+eurythmics,misc
+european jazz trio,jazz
+europe,rock
+euge groove,jazz
+etta james,blues
+etana,reggae
+estopa,rock
+erykah badu,jazz
+eros ramazzotti,rock
+eros ramazzotti,jazz
+ernest tubb,country
+eric serra,soundtrack
+eric quincy tate,blues
+eric dolphy,jazz
+eric clapton,rock
+eric clapton,blues
+eric clapton and the yardbirds,blues
+eric clapton & b.b. king,blues
+eric bibb,blues
+eric andersen,folk
+erasure,rock
+erasure,misc
+era,newage
+equilibrium,rock
+eppu normaali,rock
+epidaurus,rock
+enya,newage
+ensemble fuer fruehe musik augsburg,classical
+enrique iglesias,blues
+ennio morricone,soundtrack
+enigma,newage
+engenheiros do hawaii,rock
+en vogue,rock
+empire brass & friends,jazz
+emozioni in musica,rock
+e-motion,misc
+emmylou harris,country
+eminem,rock
+emiliana torrini,misc
+embryo,rock
+elysium,rock
+elvis presley,soundtrack
+elvis presley,rock
+elvis presley,misc
+elvis presley,country
+elvis presley,blues
+elvis costello and the imposters,newage
+elton john,soundtrack
+elton john,rock
+elton john,newage
+elton john,misc
+elton john & tim rice,soundtrack
+eloy,rock
+elmore james,blues
+elmer bernstein,soundtrack
+ellis paul,folk
+elliott smith,misc
+ella mae morse,country
+ella fitztgerald,blues
+ella fitzgerald,misc
+ella fitzgerald,jazz
+ella fitzgerald,blues
+ella fitzgerald & louis armstrong,jazz
+elis,jazz
+eligh,misc
+electric six,rock
+electric light orchestra,rock
+electric light orchestra,newage
+electric light orchestra,misc
+eldritch,rock
+elders,rock
+elastica,rock
+elan,rock
+el gran combo,jazz
+el chojin,reggae
+el barrio,rock
+eels,rock
+eduardo costa,country
+edith piaf,misc
+edith piaf,folk
+edith piaf,blues
+edge of dawn,misc
+edgar winter,blues
+edgar winter group,rock
+eddy grant,reggae
+eddy arnold,country
+eddie rabbitt,country
+eddie palmieri,jazz
+eddie kirkland,blues
+eddie jobson,newage
+eddie daniels and gary burton,jazz
+eddie cochran,rock
+ed ames,misc
+eckhart tolle,newage
+eckhard tolle,blues
+echoes of nature,misc
+easy star all stars,reggae
+earth wind & fire,rock
+earth crisis,misc
+earl klugh,jazz
+earl hooker,blues
+earl hines,jazz
+eamon,misc
+eagles,rock
+e-40,misc
+e.w. jeffries,misc
+dwight yoakam,country
+dweezil zappa,rock
+dwarves,newage
+dusty springfield,misc
+dusminguet,folk
+durutti column,misc
+duran duran,rock
+duke robillard,blues
+duke jordan,jazz
+duke ellington,misc
+duke ellington,jazz
+duke ellington,classical
+dubliners,folk
+dublin city ramblers,folk
+duane eddy,rock
+dru hill,misc
+drive time italian lessons 6-11,rock
+drifters,rock
+dream theater,rock
+dreadzone,reggae
+drax,misc
+drala,newage
+dragonforce,rock
+draconian,rock
+dr. lloyd glauberman,newage
+dr. john,blues
+dr. dre,rock
+down to the bone,blues
+dover,rock
+douglas adams,rock
+douglas adams,misc
+dougie maclean,folk
+doug stone,country
+doug ferony,jazz
+double you,misc
+dosia,misc
+doris day,misc
+doors,rock
+doors,blues
+donovan,folk
+donald byrd,jazz
+donal hinely,folk
+don williams,country
+don wilkerson,jazz
+don omar,reggae
+don gibson,country
+don  richardson,soundtrack
+domenico scarlatti,classical
+dolphin's mind,misc
+dolly parton,country
+dmc,misc
+djavan,rock
+django reinhardt,jazz
+django reinhardt,blues
+djam karet,rock
+djabe,blues
+dj shadow,misc
+dj screw,misc
+dj quik,misc
+dj pi,newage
+dj marta,newage
+dj dado,misc
+dj clue,rock
+dj bobo,newage
+dj bobo,misc
+dj black,reggae
+dizzy gillespie,jazz
+dizzy gillespie y machito,jazz
+dizzy gillespie with sonny rollins and sonny stitt,jazz
+dixie chicks,country
+divided,soundtrack
+diverse,soundtrack
+diverse,rock
+diverse,newage
+diverse,misc
+diverse,folk
+diverse artiesten,rock
+diverse artiesten,folk
+divers,soundtrack
+divers,misc
+distance,rock
+disneyland,soundtrack
+disneyland resort,soundtrack
+disney,soundtrack
+disney,misc
+dismal euphony,rock
+discovery,soundtrack
+disavowed,rock
+dirty americans,rock
+dire straits,rock
+dire straits,reggae
+dion,rock
+dio,rock
+dio,newage
+dio,misc
+dinu bomha & the strings of paris,rock
+dinah washington,jazz
+dimmu borgir,rock
+dimitrios delinikolas,folk
+dimitri tiomkin,soundtrack
+dimitri from paris,jazz
+dimiter inkiow,misc
+dikanda,misc
+digable planets,jazz
+dietrich buxtehude,classical
+dieter nuhr,misc
+diesel park west,rock
+die toten hosen,rock
+die moulinettes,rock
+die flippers,folk
+dido,rock
+didier super,rock
+dick hyman,jazz
+dianne reeves,soundtrack
+dianna corcoran,country
+diane schuur,jazz
+diana ross,blues
+diana krall,jazz
+diana krall,blues
+diam's,blues
+diamond rio,country
+diamanda galas,misc
+dialog im dunkeln,blues
+dexter gordon,jazz
+dexter gordon,blues
+deutsch nepal,misc
+detroit symphony orchestra,classical
+destiny's child,rock
+destiny's child,blues
+desmond dekker,reggae
+descendents,rock
+dervish,folk
+derek and the dominos,rock
+de-phazz,jazz
+depeche mode,rock
+depeche mode,newage
+depeche mode,misc
+deodato,jazz
+deodado,jazz
+dennis wilson,rock
+dennis mccarthy,soundtrack
+dennis brown,reggae
+demented ted,misc
+deluge grander,rock
+delinquent habits,newage
+delillos,rock
+del shannon,rock
+degarmo and key,misc
+deftones,rock
+def tech,reggae
+def leppard,rock
+deep turtle,rock
+deep purple,rock
+deep forest,newage
+deep dish,misc
+deee-lite,rock
+dee dee bridgewater,jazz
+dee dee bridgewater,blues
+decemberists,rock
+debussy 2,classical
+deborah cox,rock
+debbie friedman,rock
+death,rock
+death,misc
+death is not glamorous,rock
+deana carter,country
+dean martin,jazz
+deaf avenger,rock
+deadline,misc
+dead,rock
+dead kennedys,rock
+dead fish,rock
+dead can dance,rock
+dead can dance,newage
+dead can dance,folk
+dead can dance,blues
+de vision,newage
+de dannan,folk
+dc talk,rock
+dawud wharnsby ali,misc
+davide van de sfroos,folk
+david wilcox,folk
+david shire,soundtrack
+david sanborn,jazz
+david ruis,misc
+david olney,folk
+david munyon,folk
+david miles huber,newage
+david mccullough,soundtrack
+david mccullough,misc
+david m. quinlan,folk
+david lee roth,rock
+david lee murphy,country
+david lanz,newage
+david jonathan,soundtrack
+david jonathan,folk
+david guetta,misc
+david gray,folk
+david gogo,blues
+david gilmour,rock
+david garrett,classical
+david eddings,misc
+david deangelo,soundtrack
+david bustamante,soundtrack
+david bowie,rock
+david bowie,misc
+david benoit,jazz
+david baldacci,misc
+david arkenstone,newage
+david arkenstone,blues
+david & steve gordon,folk
+dave matthews band,rock
+dave liebman big band,jazz
+dave hole,blues
+dave grusin,jazz
+dave eichenberger,newage
+dave edmunds,rock
+dave brubeck quartet,jazz
+das beste,classical
+daryl coley,folk
+darkness,rock
+dark funeral,rock
+dark angel,rock
+darius,misc
+danzig,rock
+dante alighieri,misc
+danny tenaglia,newage
+danny elfman,soundtrack
+danni leigh,country
+daniela mercury,misc
+daniel o'donnell,country
+daniel barenboim,classical
+dandy warhols,misc
+dan gibson's solitudes,newage
+dan gibson,classical
+dan fogelberg,rock
+dan brown,soundtrack
+dan brown,misc
+damien rice,folk
+damageplan,jazz
+dallas brass,newage
+dallas brass,misc
+dali's dilemma,rock
+dalibor grubacevic,soundtrack
+daisycutters,country
+daft punk,soundtrack
+daddy yankee,reggae
+daddy yankee,misc
+da weasel,misc
+d - phase,misc
+cyrkle,rock
+cyril pahinui,folk
+cypress hill,newage
+cusco,newage
+curtis mayfield & the impressions,blues
+curse,reggae
+curse,newage
+curse,misc
+curse of the golden vampire,rock
+current events,jazz
+current 93,misc
+current 93,folk
+cure,rock
+cunnie williams,soundtrack
+cunnie williams,rock
+culture,reggae
+culture beat,misc
+cult,rock
+cult of luna,rock
+culcha candela,reggae
+cuba l.a.,jazz
+crystal method,soundtrack
+crystal gayle,country
+crusaders,jazz
+cristina mel,misc
+cristina mel,folk
+creedence clearwater revival,rock
+creed,newage
+creative music studio,jazz
+cream,rock
+crazy frog,newage
+crash test dummies,rock
+cranberries,rock
+craig chaquico,newage
+cradle of filth,rock
+cracow state philharmonic chorus & orchestra,classical
+cracker,country
+coyote dax,country
+cowboy junkies,blues
+covenant,newage
+country expressen,folk
+counting crows,country
+count basie,jazz
+count basie,blues
+cosmos,jazz
+corrs,rock
+corrs,folk
+cordelia's dad,folk
+corciolli,newage
+cootie williams,jazz
+cooper temple clause,rock
+coolio featuring l.v.,soundtrack
+conway twitty,country
+contes et chansons,folk
+constance demby,newage
+conrad herwig,jazz
+connie francis,rock
+connie francis,misc
+connells,rock
+conjure one,newage
+condo fucks,rock
+concrete blonde,rock
+concord dawn,newage
+compilations,rock
+compilation,misc
+compilation,country
+compay segundo,rock
+compay segundo,folk
+commodores,misc
+commitments,soundtrack
+columbia river,soundtrack
+collin raye,folk
+collin raye,country
+coleman hawkins,jazz
+coldcut,misc
+cold storage,misc
+colbie caillat,folk
+coil,misc
+cocteau twins,rock
+cocco,folk
+coal chamber,rock
+clyde mcphatter,rock
+clyde criner,jazz
+clutch,rock
+cluster & eno,newage
+clueso,rock
+clive lendich,newage
+clive cussler,soundtrack
+clive cussler,misc
+clint eastwood,soundtrack
+clint black,country
+clifford brown,jazz
+cliff richard,rock
+cliff carlisle,country
+clemens krauss & bayreuther festspiele,classical
+clearlight,rock
+clay walker,country
+claudio j. freidzon,rock
+claudio baglioni,folk
+claudio arrau,classical
+claudia jung,folk
+claude bolling big band,blues
+clash,rock
+clark-hutchinson (,rock
+clark terry,jazz
+clarion fracture zone,jazz
+clarence sexton,misc
+clarence brewer,blues
+clannad,soundtrack
+clancy brothers with tommy makem,folk
+claire lynch,country
+cimrman,soundtrack
+cicatriz,rock
+ciara,rock
+ciara,misc
+chumbawamba,blues
+chuck mangione,soundtrack
+chuck mangione,jazz
+chuck berry,rock
+chuck berry,misc
+chuck berry,blues
+chrystian e ralf,country
+chroming rose,rock
+christy moore,folk
+christopher parkening,classical
+christopher franke,soundtrack
+christopher cross,rock
+christophe maro,newage
+christoph eschenbach,classical
+christina aguilera,rock
+christian mcbride,jazz
+christian jacq,misc
+christian duran,soundtrack
+christafari,reggae
+chris spheeris,newage
+chris spheeris,blues
+chris rea,rock
+chris liebing,rock
+chris heimerdinger,misc
+chris anderson,jazz
+chopin,classical
+choir,rock
+chinese instrumental ensemble,classical
+children,misc
+chieftains,folk
+chieftains,country
+chico buarque,misc
+chick corea,misc
+chick corea,jazz
+chick corea,classical
+chicago,rock
+chic,rock
+chet baker,jazz
+chet baker quintet,soundtrack
+chet atkins,misc
+cherry poppin' daddies,misc
+cherry poppin' daddies,jazz
+cherish the ladies,folk
+cher,rock
+chemical brothers,rock
+chemical brothers,misc
+cheech and chong,misc
+chartbreakers,country
+charnet moffett,jazz
+charlotte church,misc
+charlie parker,soundtrack
+charlie parker,jazz
+charlie haden & pat metheny,blues
+charlie daniels,country
+charlie daniels band,country
+charlie barnet,jazz
+charley pride,country
+charles mingus,jazz
+charles mingus,blues
+charles harrington elster,misc
+charles gross & windham hill artists,soundtrack
+chantal kreviazuk,rock
+chansons et comptines,misc
+chamras saewataporn,newage
+chamras saewataporn,blues
+chaka demus & pliers,reggae
+cesaria evora,folk
+cesaria evora,blues
+cesar passarinho,country
+cesar menotti e fabiano,folk
+cervello,rock
+cepillin,jazz
+cementerio show,rock
+celso blues boy,blues
+celine dion,misc
+celine dion,blues
+celestrial winds,misc
+celeste,rock
+ceca,folk
+ce ce peniston,rock
+cbc,misc
+cathedral,rock
+catedral,blues
+cat stevens,rock
+cat stevens,folk
+cat empire,jazz
+castelo forte,soundtrack
+cast,rock
+casiopea,jazz
+carter family,country
+carter burwell,soundtrack
+cars,rock
+carrie underwood,country
+carpenters,rock
+carpenters,blues
+carolyn dawn johnson,soundtrack
+carole king,rock
+carole king,folk
+carmen mcrae,jazz
+carlos y jose,misc
+carlos gardel,misc
+carlos galhardo,blues
+carl perkins,country
+carl orff,classical
+cardigans,rock
+caras,folk
+cara dillon,folk
+cappella,misc
+capital inicial,misc
+cantorias e cantadores,country
+cannon's jug stompers,blues
+cannonball adderley,jazz
+canned heat,blues
+candlemass,rock
+canadian brass,jazz
+can,rock
+camper van beethoven,rock
+camel,rock
+camber,rock
+calling,misc
+california raisins,misc
+calcinha preta,misc
+cal tjader,jazz
+cake,rock
+cage,rock
+cafe del mar,classical
+cacophony,rock
+cab calloway,jazz
+c.s. lewis,misc
+b'z,rock
+byron janis,classical
+byrds,folk
+buzzcocks,rock
+buty,rock
+butch hancock,country
+bush,rock
+bush,newage
+burt bacharach,misc
+burning witch,rock
+burning spear,reggae
+burning sky,newage
+burning sky,misc
+burger ink,rock
+buoys,rock
+bunny wailer,reggae
+bullet for my valentine,jazz
+buju banton,reggae
+build up yoga,newage
+buena vista social club,jazz
+buena vista social club,folk
+buddy rich,blues
+buddy holly,rock
+buddy guy,blues
+bud powell,jazz
+bud freeman,jazz
+buck owens,country
+buck 65,rock
+bubba sparxxx,reggae
+bryan white,country
+bryan adams,soundtrack
+bryan adams,rock
+bruno e marrone,country
+bruno coulais,soundtrack
+bruno & marrone,country
+bruckner,classical
+bruce springsteen,rock
+bruce springsteen,misc
+bruce springsteen & the e street band,rock
+bruce huron,folk
+broun fellinis,newage
+brotherhood of st gregory,classical
+brosis,rock
+brooks & dunn,country
+brontosauri,folk
+broken social scene,rock
+broadlahn,jazz
+britney spears,soundtrack
+britney spears,rock
+britney spears,misc
+britney spears,blues
+bride,misc
+brian eno,newage
+brenda lee,rock
+breeders,rock
+brecker brothers,jazz
+bread,rock
+bravo hits 1990,rock
+branford marsalis,jazz
+brandenburg consort,classical
+brand x,jazz
+brand new heavies,misc
+brand new heavies,jazz
+bram stoker,misc
+brain damage,reggae
+brahms/gerhard oppitz - piano,classical
+brahms,classical
+brad scott,misc
+brad paisley,country
+brad fiedel,soundtrack
+bracket,rock
+boyz ii men,rock
+boyz ii men,misc
+bothy band,folk
+boston,rock
+borknagar,rock
+boris berezovsky - akiko suwanai,classical
+boredoms,rock
+booker little,jazz
+boogie down productions,rock
+boogaloo joe jones,jazz
+bonnie rideout - eric rigler - maggie sansone - al petteway,folk
+boney m.,rock
+boney m,rock
+boney m,misc
+boney m,classical
+boney james & rick braun,jazz
+bones,rock
+bone thugs-n-harmony,misc
+bond,newage
+bond,classical
+bon jovi,rock
+bobby womack,blues
+bobby watson,jazz
+bobby valentin & cano estremera,rock
+bobby previte,jazz
+bobby mcferrin & chick corea,jazz
+bobby curtola,newage
+bobby brown,misc
+bobby and blumm,folk
+bob seger & the silver bullet band,rock
+bob marley,reggae
+bob marley and the wailers,reggae
+bob marley & the wailers,reggae
+bob james,jazz
+bob james,classical
+bob james,blues
+bob hope,misc
+bob geldof,newage
+bob dylan,rock
+bob dylan,folk
+bob dylan,blues
+bob de angelis,blues
+bob curnow's l.a. big band,jazz
+bob berg,jazz
+boa,newage
+bo diddley,blues
+blur,rock
+blumentopf,misc
+blues guitar masters,blues
+blues brothers,soundtrack
+blues brothers,blues
+blue stone,newage
+blue pearl,misc
+blue oyster cult,rock
+blue october,rock
+blue meanies,rock
+blue meanies,newage
+blue floyd,rock
+blue bamboo,newage
+blu cantrell,newage
+bloodhound gang,rock
+bloodbound,rock
+blood brothers,newage
+blondie,rock
+blink 182,rock
+blind melon,rock
+blind lemon jefferson,blues
+blind guardian,rock
+blind guardian,jazz
+blazers,blues
+blandat,rock
+blandat,misc
+blame featuring drs,misc
+blackstreet,rock
+blackmore's night,folk
+blackhawk,country
+blackfoot,rock
+blackfield,rock
+black velvet,folk
+black uhuru,reggae
+black seeds,reggae
+black sabbath,rock
+black rebel motorcycle club,rock
+black pus,rock
+black mountain bluegrass boys,folk
+black lips,rock
+black eyed peas,soundtrack
+black eyed peas,newage
+black eyed peas,folk
+black dahlia murder,jazz
+black crowes,rock
+bizzy bone,misc
+bishops,folk
+birthday party,blues
+biohazard,rock
+bing crosby,soundtrack
+bing crosby,jazz
+bing crosby,folk
+bim sherman,reggae
+billy ray cyrus,country
+billy mclaughlin,newage
+billy joel,rock
+billy joel,misc
+billy joel,blues
+billy joe shaver,country
+billy idol,rock
+billy currington,country
+billy bragg,folk
+billie holiday,jazz
+billie holiday,blues
+bill withers,blues
+bill monroe,country
+bill frisell,jazz
+bill evans,jazz
+bill evans trio,jazz
+bigod 20,rock
+big tymers,misc
+big joe williams,blues
+big finish,soundtrack
+big fat snake with tcb band & sweet inspirations,rock
+big daddy kinsey,blues
+big bill broonzy,blues
+big audio,rock
+bible,soundtrack
+beverley knight,rock
+betty carter,jazz
+beth gibbons & rustin man,misc
+beth carvalho,classical
+bessie smith,blues
+bert kaempfert,jazz
+bernd konrad,rock
+berliner philharmoniker & claudio abbado,classical
+bering strait,country
+benny vreden produktions,rock
+benny green trio,jazz
+benny goodman,jazz
+benny goodman,blues
+benito cabrera,folk
+ben webster,jazz
+ben harper,folk
+ben gunn society,soundtrack
+bellamy brothers,country
+belinda carlisle,rock
+beirut,rock
+behexen,newage
+behemoth,rock
+beethoven,classical
+beethoven (barenboim & berliner staatskapelle),classical
+beegie adair trio,jazz
+bee gees,soundtrack
+bee gees,rock
+beck,rock
+beaux arts trio,classical
+beatsteaks,rock
+beatrix potter,misc
+beatles,rock
+beatles,misc
+beatles,blues
+beastie boys,rock
+beastie boys,misc
+beach,soundtrack
+beach boys,rock
+beach boys,misc
+beach boys,folk
+bauhaus,rock
+basia,jazz
+basement jaxx,rock
+barzin,folk
+barry white,misc
+barry manilow,rock
+barry manilow,jazz
+barricada,rock
+bar-j wranglers,country
+bargain hunters,jazz
+bardo state,newage
+barclay james harvest,misc
+barbra streisand,misc
+barbra streisand,jazz
+bangles,rock
+bandanos,rock
+banda maguey,misc
+banda el recodo,misc
+banda calypso,country
+band,rock
+band of oz,blues
+banco del mutuo soccorso,rock
+banco de gaia,misc
+bananas in pyjamas,misc
+baha men,reggae
+badesalz,misc
+bad religion,rock
+bad company,rock
+bad boys blue,misc
+backstreet boys,rock
+backstreet boys,misc
+bach,classical
+babyface,rock
+baby einstein,misc
+baby einstein,classical
+baby einstein music box orchestra,classical
+babe ruth,rock
+babasonicos,rock
+b-52's,rock
+b & m producties,misc
+ayreon,rock
+axel zwingenberger,blues
+avril lavigne,newage
+avenged sevenfold,jazz
+avalon,soundtrack
+avalon,newage
+avail,rock
+automorrow,rock
+autechre,misc
+aurora,rock
+augustus pablo,reggae
+audioslave,rock
+audio adrenaline,rock
+auber,classical
+attitude adjustment,rock
+atomic 7,rock
+atom and his package,rock
+atlas editions,soundtrack
+atlanta rhythm section,rock
+atlanta cafe band,blues
+atb,misc
+atb with heather nova,misc
+ataris,rock
+aswad,reggae
+astrud gilberto,misc
+assimil,misc
+assemblage 23,misc
+assassin,rock
+asleep at the wheel,country
+ash,rock
+asche,misc
+ascended master saint germain,newage
+arzu - gamze kirtil,classical
+arve tellefsen,misc
+arturo toscanini,classical
+artur rubinstein,classical
+artisti vari,rock
+arthur rubinstein,misc
+arthur rubinstein,classical
+artful dodger,misc
+art tatum,jazz
+art pepper,jazz
+art ensemble of chicago,jazz
+art blakey,jazz
+art blakey & the jazz messengers,jazz
+art blakey & the jazz messengers,blues
+arrested development,misc
+armin van buuren,misc
+armin thalheim,classical
+armik,classical
+arlo guthrie,folk
+arianna huffington,blues
+aretha franklin,rock
+arditti string quartet,classical
+ardis,rock
+arcturus,misc
+arctic monkeys,newage
+archie shepp,jazz
+arcadi volodos,classical
+arc angels,rock
+aquarius,misc
+aqua,misc
+apocalyptica,rock
+apocalyptica,classical
+aphex twin,rock
+aphex twin,newage
+anzan,blues
+anything box,rock
+anugama,newage
+antony santos,misc
+antonio vivaldi,classical
+antonio pinto,soundtrack
+antonio de lucena,classical
+antonio carlos jobim,jazz
+antonello venditti,misc
+anton bruckner,classical
+anthrax,rock
+anthony robbins,misc
+anthony phillips,newage
+anthony miles,newage
+anthony braxton,jazz
+ansambel bratov avsenik,country
+anouk,rock
+annie lennox,rock
+annie lennox,misc
+annett louisan,blues
+anne murray,country
+anna maria jopek,jazz
+anita lipnicka & john porter,newage
+anita baker,folk
+anis,reggae
+animals,rock
+ani difranco,folk
+angra,rock
+angelo perlepes' mystery,rock
+angelo badalamenti,soundtrack
+andy & lucas,folk
+andrew lloyd webber,soundtrack
+andrew hill,jazz
+andrew dice clay,misc
+andres segovia,classical
+andrei gavrilov,blues
+andreas vollenweider,newage
+andreas vollenweider,misc
+andreas vollenweider,blues
+andrea schacht,soundtrack
+andrea bocelli,classical
+andrea berg,misc
+anastacia,blues
+ana salazar,misc
+amy winehouse,rock
+amy winehouse,jazz
+amy winehouse,blues
+amy macdonald,folk
+amy grant,rock
+amy grant,folk
+ammoncontact,misc
+amina figarova,jazz
+amethystium,newage
+america,rock
+america,folk
+amen uk,misc
+ambros seelos show band,misc
+amaral,classical
+amar nath & somnath mukhergee,newage
+amanda marshall,rock
+amado batista,misc
+amado batista,country
+allman brothers band,rock
+allan pettersson,classical
+allan holdsworth,blues
+alkaline trio,newage
+alisha,misc
+alisa jones,misc
+aline barros,folk
+alien ant farm,rock
+alicia keys,rock
+alicia keys,blues
+alice in chains,rock
+alice in chains,newage
+alice cooper,rock
+ali project,classical
+algiers brass band,jazz
+alfred walter - czecho-slovak philharmonic,classical
+alfred newman,soundtrack
+alexis korner,blues
+alexandre desplat,soundtrack
+alexander scourby,misc
+alex party,rock
+alex lloyd,folk
+alejandro sanz,rock
+alcione,blues
+alcazar,misc
+alberto plaza,misc
+alberto iglesias,soundtrack
+albert king,blues
+albert king with stevie ray vaughan,blues
+albert collins,blues
+albert ayler,jazz
+alanis morissette,rock
+alanis morissette,newage
+alan stivell,folk
+alan silvestri,soundtrack
+alan lomax series,folk
+alan jackson,country
+alan greenspan,misc
+alain barriere,misc
+alabina,folk
+alabama,country
+al jarreau,jazz
+al gromer khan,newage
+al di meola,misc
+al di meola,jazz
+akurat,reggae
+ak1200,newage
+air,newage
+air,classical
+air liquide,misc
+ahmad jamal,jazz
+ahmad jamal trio,jazz
+a-ha,rock
+a-ha,newage
+agnaldo timoteo,rock
+agents,rock
+after crying,newage
+after 7,misc
+afro celt sound system,newage
+afro celt sound system,misc
+aerosmith,rock
+aerosmith,blues
+aeoliah,newage
+adventures in odyssey,misc
+adoniran barbosa,blues
+adema,newage
+adelino nascimento,soundtrack
+adani & wolf,newage
+adam x,rock
+ad visser,newage
+acoustic alchemy,newage
+acoustic alchemy,jazz
+aco pejovic,folk
+ace of base,rock
+ace of base,reggae
+ace of base,newage
+acdc,rock
+academy of saint martin in the fields,classical
+ac/dc,rock
+absolute,rock
+abraham-hicks,newage
+abominable iron sloth,jazz
+abhinanda,rock
+abdullah ibrahim,jazz
+abdullah ibrahim & ekaya,jazz
+abdul basit abdul samad,misc
+abba,rock
+abba,misc
+aaron carter,soundtrack
+aaron carter,rock
+aaliyah,misc
+a. gradsky,classical
+883,rock
+808 state,newage
+7th order,rock
+7 seconds,rock
+5ilent narcotic,rock
+50 cent,misc
+4 non blondes,rock
+311,rock
+30 seconds to mars,rock
+2pac,misc
+21st century schizoid band,rock
+2 unlimited,rock
+2 unlimited,newage
+2 pac,misc
+19,folk
+18,soundtrack
+17 hippies,soundtrack
+13th floor elevators,rock
+12th. man,soundtrack
