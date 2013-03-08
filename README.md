@@ -54,7 +54,7 @@ These scripts rely on the following main data files:
 * `rsvp-text-analysis/negative.txt`	- list of negating phrases, used for determining negation. Each line of this file should be a negating phrase with no leading or trailing whitespace. This file is provided, however it can be updated as seen fit.
 and the following files must be provided for each feature type:
 * `rsvp-text-analysis/myfeaturetype/myfeaturetype.txt`	- (keyword,genre) csv file. This file consists of an association list of keywords and genres. Each line of this file should be a keyword followed by a comma followed by a genre, with no leading or trailing whitespace. Genres are automatically included as keywords in the script.
-* `rsvp-text-analysis/myfeaturetype/user_myfeaturetype.csv`	- (userid, freetext) csv file exported from the RSVP Oracle database. There should only be 2 columns - one for userid and one for free text. The first line should be a header, and each subsequent line should be a (userid,freetext) pair.
+* `rsvp-text-analysis/myfeaturetype/user_myfeaturetype.csv`	- (userid, freetext) csv file exported from the RSVP Oracle database. There should only be 2 columns - one for userid and one for free text. The first line should be a header, and each subsequent line should be a (userid,freetext) pair. This file can be obtained by exporting `RSVP_0612.UP_FREETEXT`, selecting only the "userid" and "music" columns for example.
 
 
 File Formats
